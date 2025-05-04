@@ -1,0 +1,174 @@
+services:
+  product-api:
+    build:
+      context: ./product-api
+      dockerfile: Dockerfile.product
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./product-api/products.csv:/app/products.csv
+    environment:
+      - PORT=8000
+    networks:
+      - product-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://product-api:8000/docs"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '1'
+          memory: 1G
+
+  rating-api:
+    build:
+      context: ./rating-api
+      dockerfile: Dockerfile
+    ports:
+      - "8003:8003"
+    volumes:
+      - ./rating-api/product_ratings.csv:/app/product_ratings.csv
+    environment:
+      - PORT=8003
+    networks:
+      - product-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8003/docs"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '1'
+          memory: 1G
+
+  mcp-server:
+    build:
+      context: ./mcp
+      dockerfile: Dockerfile.mcp
+    ports:
+      - "8001:8001"
+    environment:
+      - REST_API_URL=http://product-api:8000
+      - RATING_API_URL=http://rating-api:8003
+      - PORT=8001
+    networks:
+      - product-network
+    depends_on:
+      product-api:
+        condition: service_healthy
+      rating-api:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://mcp-server:8001/docs"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2G
+        reservations:
+          cpus: '1'
+          memory: 1G
+
+  llm-service:
+    build:
+      context: ./llm
+      dockerfile: Dockerfile
+    ports:
+      - "8002:8002"
+    environment:
+      - MCP_SERVER_URL=http://mcp-server:8001
+      - PORT=8002
+      - HF_HOME=/app/.cache/huggingface
+      - TRANSFORMERS_CACHE=/app/.cache/huggingface/transformers
+      - HUGGINGFACE_HUB_CACHE=/app/.cache/huggingface/hub
+      - OMP_NUM_THREADS=24
+      - NUMEXPR_MAX_THREADS=24
+    volumes:
+      - llm-cache:/app/.cache/huggingface
+      - ~/.cache/huggingface:/app/.cache/huggingface
+    networks:
+      - product-network
+    depends_on:
+      mcp-server:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://llm-service:8002/docs"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+      start_period: 300s
+    deploy:
+      resources:
+        limits:
+          cpus: '26'
+          memory: 50G
+        reservations:
+          cpus: '17'
+          memory: 33G
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+        window: 120s
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    shm_size: '16gb'
+    user: "1000:1000"
+
+  streamlit-app:
+    build:
+      context: ./streamlit
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
+    environment:
+      - LLM_SERVICE_URL=http://llm-service:8002
+      - MCP_SERVER_URL=http://mcp-server:8001
+    networks:
+      - product-network
+    depends_on:
+      llm-service:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://streamlit-app:8501"]
+      interval: 30s
+      timeout: 10s
+      retries: 10
+      start_period: 60s
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+        reservations:
+          cpus: '1'
+          memory: 2G
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+        window: 120s
+
+networks:
+  product-network:
+    driver: bridge
+
+volumes:
+  llm-cache:
+    driver: local 

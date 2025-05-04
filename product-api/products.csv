@@ -1,0 +1,501 @@
+Vendor Product Number,SKU,Product type,Product description,Product subtype,Gender,Age Group,Color,Price,Brand,Sub brand
+99e257eb-d66d-4f94-9a03-78ee7e899df9,FO-SN-MI-RE,footwear,Michael Kors Sneakers in Red,sneakers,Female,Adult,Red,159.38,Michael Kors,
+12553f5e-13a0-4e43-8306-3e8625137cff,FO-BO-AP-GR,footwear,Apple Boots in Grey,boots,Unisex,Adult,Grey,186.31,Apple,
+6e23b916-d20e-4442-af52-6be1961ade32,EL-LA-NI-GR,electronics,Nike Laptop in Grey,laptop,Male,Adult,Grey,1827.95,Nike,
+4c46f0f8-89d2-42c5-bbe7-815c35cc3e16,JE-RI-SO-MU,jewelry,Sony Ring in Multi-color,ring,Female,Youth,Multi-color,869.84,Sony,Aero
+25ee1998-83f2-4ba3-8f4b-5fa723f35df4,FO-SA-AD-BR,footwear,Adidas Sandals in Brown,sandals,Male,Adult,Brown,93.51,Adidas,Essentials
+2bac038d-57ea-4901-a045-15fdf68f20f1,AC-BE-AD-MU,accessories,Adidas Belt in Multi-color,belt,Unisex,Adult,Multi-color,17.04,Adidas,
+d206a54f-7aca-49af-bb78-dca3ee221772,FO-SN-AP-BR,footwear,Apple Sneakers in Brown,sneakers,Kids,Youth,Brown,350.05,Apple,Pro
+b2ca17fd-826a-460c-be7c-1702236ea1d7,HO-LA-GE-BL,home goods,Generic Brand Lamp in Blue,lamp,Kids,Youth,Blue,37.44,Generic Brand,Aero
+009ff4e9-0dbc-473f-a146-9829310a5098,WE-SM-AD-MU,wearables,Adidas Smartwatch in Multi-color,smartwatch,Female,Adult,Multi-color,316.25,Adidas,Signature
+01a4529e-e1a5-41ce-b9b4-fb370aa59ff7,HO-PI-SA-BL,home goods,Samsung Pillow in Black,pillow,Unisex,Youth,Black,86.22,Samsung,
+ff5ba0e8-8b35-40a6-9766-ab03c4b3aece,HO-LA-FO-WH,home goods,Fossil Lamp in White,lamp,Kids,Youth,White,66.82,Fossil,Signature
+bd593233-dd78-46de-98af-9c28a82799b8,HA-TO-FO-MU,handbag,Fossil Tote Bag in Multi-color,tote bag,Unisex,Youth,Multi-color,292.21,Fossil,
+35e3975d-5c55-4e7b-b535-c7da67572a5a,CL-SK-SO-MU,clothing,Sony Skirt in Multi-color,skirt,Male,Adult,Multi-color,170.68,Sony,Sport
+a3e1d512-5d9d-4b29-a204-01d64f259707,HO-PI-AM-MU,home goods,Amazon Pillow in Multi-color,pillow,Kids,Youth,Multi-color,170.81,Amazon,Sport
+d9bcb4f2-877b-43d6-83a3-e582f6a96e07,FO-SN-AP-PI,footwear,Apple Sneakers in Pink,sneakers,Male,Adult,Pink,305.55,Apple,Pro
+f76b08cc-b6b0-49cc-8db0-8419a5c99c8c,WE-SM-SA-MU,wearables,Samsung Smartwatch in Multi-color,smartwatch,Unisex,Adult,Multi-color,354.69,Samsung,Signature
+f75ca9da-9198-4231-96d9-81d45ffec2eb,HO-VA-AP-YE,home goods,Apple Vase in Yellow,vase,Kids,Youth,Yellow,96.81,Apple,
+a6e6433b-9fe8-48d0-a5b3-dbd5e15588cf,JE-EA-MI-PI,jewelry,Michael Kors Earrings in Pink,earrings,Female,Adult,Pink,1407.17,Michael Kors,
+20e8e05c-809e-4b2d-8b92-9c7694bbdce8,JE-EA-FO-OR,jewelry,Fossil Earrings in Orange,earrings,Kids,Youth,Orange,65.36,Fossil,Signature
+f529b525-ddd2-4ce1-ab64-809eca717a64,AC-BE-FO-MU,accessories,Fossil Belt in Multi-color,belt,Male,Adult,Multi-color,14.13,Fossil,
+1a692c55-cc7a-4848-bae7-4889d65c6cb8,EL-TA-MI-PI,electronics,Michael Kors Tablet in Pink,tablet,Unisex,Youth,Pink,1870.48,Michael Kors,Essentials
+f2f5c0b1-eb9a-4644-9807-0fef566d8e23,CL-PA-GU-BR,clothing,Gucci Pants in Brown,pants,Male,Youth,Brown,114.2,Gucci,
+9b46c0a7-8dd3-4085-a7f5-45a4b7733525,EL-TA-SO-GR,electronics,Sony Tablet in Green,tablet,Female,Adult,Green,834.35,Sony,Pro
+6280d276-949d-4404-a889-98c48e2d2295,CL-DR-GU-OR,clothing,Gucci Dress in Orange,dress,Female,Adult,Orange,176.78,Gucci,
+7e224ff5-77f8-4c2b-93e8-d7cbc39a2cb2,CL-SH-AD-BR,clothing,Adidas Shirt in Brown,shirt,Unisex,Youth,Brown,24.33,Adidas,Pro
+4f0f1c32-303b-41ec-b3f6-7d9db647f77a,JE-BR-GE-BR,jewelry,Generic Brand Bracelet in Brown,bracelet,Male,Youth,Brown,450.74,Generic Brand,Sport
+9e1b5813-b446-4111-ba32-731682ce4173,JE-EA-GU-WH,jewelry,Gucci Earrings in White,earrings,Female,Adult,White,173.66,Gucci,Pro
+3d695abd-460f-4987-853b-5d4d000a5901,AC-HA-NI-WH,accessories,Nike Hat in White,hat,Female,Youth,White,76.63,Nike,
+da066fe0-af84-4d11-af67-007f8e74bae7,WE-SM-GE-OR,wearables,Generic Brand Smartwatch in Orange,smartwatch,Female,Youth,Orange,491.72,Generic Brand,Aero
+326d41e5-58c5-4d9f-9bb1-0ea2687ed9ea,CL-SH-AM-WH,clothing,Amazon Shirt in White,shirt,Kids,Youth,White,17.36,Amazon,
+b9ebe082-0d48-4e15-8088-ef0c85a4b3f0,CL-SO-AM-MU,clothing,Amazon Socks in Multi-color,socks,Unisex,Adult,Multi-color,94.85,Amazon,Aero
+628e942a-d5ca-4134-ad77-9ef4d1a6e859,HA-WA-GU-OR,handbag,Gucci Wallet in Orange,wallet,Kids,Youth,Orange,285.69,Gucci,Aero
+d4bb7963-fd8c-4b25-b5c2-cc8c1b98c974,FO-BO-AD-PI,footwear,Adidas Boots in Pink,boots,Female,Youth,Pink,175.03,Adidas,Pro
+ba12fbbc-98a3-4ab3-99f0-40090d0d142d,CL-SK-FO-GR,clothing,Fossil Skirt in Grey,skirt,Male,Youth,Grey,50.12,Fossil,
+bb4c26f4-d38f-4a86-936d-a6715161b168,HA-WA-AM-PU,handbag,Amazon Wallet in Purple,wallet,Unisex,Adult,Purple,178.68,Amazon,Aero
+633b3656-0c80-4e38-84c0-dfdd84141933,AC-SC-AP-PI,accessories,Apple Scarf in Pink,scarf,Male,Adult,Pink,53.5,Apple,Signature
+4ffcc28d-c4e8-4e21-b6dc-35a17f673e45,CL-SO-AD-OR,clothing,Adidas Socks in Orange,socks,Unisex,Adult,Orange,59.92,Adidas,Sport
+e28ed74e-55d4-4258-a220-3d5968e06905,FO-SA-GE-GR,footwear,Generic Brand Sandals in Green,sandals,Female,Adult,Green,295.5,Generic Brand,
+bd071247-8efe-4481-b514-420844a19356,HO-PI-MI-WH,home goods,Michael Kors Pillow in White,pillow,Male,Youth,White,162.3,Michael Kors,Signature
+dc3e00bd-07cd-4b30-9be2-024e1563d924,CL-SH-SA-GR,clothing,Samsung Shirt in Green,shirt,Male,Youth,Green,24.7,Samsung,Essentials
+268e9430-4880-4693-8e6e-9e93a72e33e8,FO-SN-AM-MU,footwear,Amazon Sneakers in Multi-color,sneakers,Male,Youth,Multi-color,48.31,Amazon,
+84c297b5-c517-45f1-bebe-93796282b342,EL-LA-AD-GR,electronics,Adidas Laptop in Green,laptop,Female,Adult,Green,1284.44,Adidas,
+5e8d6bf2-8ce3-4c10-a84f-64b650533dac,HA-WA-SA-MU,handbag,Samsung Wallet in Multi-color,wallet,Unisex,Adult,Multi-color,214.37,Samsung,Signature
+7bc0f24c-1517-4d58-833a-4bd24d36a266,HO-LA-NI-MU,home goods,Nike Lamp in Multi-color,lamp,Unisex,Youth,Multi-color,142.13,Nike,
+ee311a3b-b3e3-41ba-84ec-8d742f16282c,AC-HA-FO-GR,accessories,Fossil Hat in Grey,hat,Female,Adult,Grey,73.86,Fossil,
+32b07a1c-5d29-4db9-a30b-2eb64291d65c,EL-LA-SA-GR,electronics,Samsung Laptop in Green,laptop,Unisex,Adult,Green,761.68,Samsung,Sport
+90f06b61-4ab8-42e5-9a82-4e0fd18e3f89,CL-SK-GE-OR,clothing,Generic Brand Skirt in Orange,skirt,Female,Adult,Orange,56.25,Generic Brand,
+fa86fb0d-f1a3-4efd-933d-dfabe048b5d7,FO-BO-FO-GR,footwear,Fossil Boots in Green,boots,Unisex,Youth,Green,55.94,Fossil,Sport
+c26273ec-b572-4381-8498-dc536bd4b1e9,CL-DR-MI-PU,clothing,Michael Kors Dress in Purple,dress,Male,Adult,Purple,126.28,Michael Kors,Aero
+044a6d2d-1bb6-4700-ab45-0d14d7b48e00,WE-SM-SO-PI,wearables,Sony Smartwatch in Pink,smartwatch,Male,Adult,Pink,319.28,Sony,Sport
+eeaba8c4-9d54-4cef-b3fc-3ca87fd3aa0a,AC-BE-NI-BR,accessories,Nike Belt in Brown,belt,Kids,Youth,Brown,74.29,Nike,
+da9fe1ce-f1ae-41e0-b82b-e9be0f984e1f,HA-BA-GU-OR,handbag,Gucci Backpack in Orange,backpack,Female,Adult,Orange,584.24,Gucci,Essentials
+e3e5b88f-1566-4d73-b5cf-d93797561dc1,HA-WA-MI-BR,handbag,Michael Kors Wallet in Brown,wallet,Male,Youth,Brown,367.18,Michael Kors,Sport
+32464d8e-e768-4a26-aef7-29eaac865844,EL-LA-SA-MU,electronics,Samsung Laptop in Multi-color,laptop,Unisex,Adult,Multi-color,501.73,Samsung,Essentials
+ed801a26-8d51-4841-8f69-532f36912eb0,AC-HA-SO-GR,accessories,Sony Hat in Grey,hat,Unisex,Youth,Grey,100.84,Sony,
+0d145aab-a9ac-4421-a407-e6d643ef5368,JE-RI-AM-PU,jewelry,Amazon Ring in Purple,ring,Female,Adult,Purple,876.16,Amazon,Aero
+83e1f876-f8e7-4c6b-a931-5e68094bdc85,AC-SC-FO-BL,accessories,Fossil Scarf in Black,scarf,Kids,Youth,Black,75.25,Fossil,
+f10c10b4-6f9a-48a7-b07b-d4a9e4608068,CL-SH-GU-YE,clothing,Gucci Shirt in Yellow,shirt,Kids,Youth,Yellow,38.61,Gucci,
+b0b61507-1f65-4646-b9a5-41a32720c4d1,WE-SM-GE-BL,wearables,Generic Brand Smartwatch in Black,smartwatch,Unisex,Adult,Black,251.6,Generic Brand,Sport
+0979d305-3e22-4cd6-95d8-87ff0f56a82b,JE-RI-NI-PU,jewelry,Nike Ring in Purple,ring,Female,Adult,Purple,986.65,Nike,Sport
+197119ec-0145-47a2-994d-c27c3484af54,HO-PI-GU-BL,home goods,Gucci Pillow in Blue,pillow,Unisex,Youth,Blue,99.26,Gucci,Essentials
+f6c5f8f0-970e-4d58-b079-910a1986296e,EL-TA-CO-YE,electronics,Coach Tablet in Yellow,tablet,Female,Youth,Yellow,1765.78,Coach,Aero
+7f1957c1-60ba-46ed-9819-bae886777c02,FO-BO-AD-BL,footwear,Adidas Boots in Blue,boots,Female,Adult,Blue,264.91,Adidas,
+a09acf3d-9193-40cb-9aea-1ad3a3b89b89,HA-WA-SO-MU,handbag,Sony Wallet in Multi-color,wallet,Female,Youth,Multi-color,231.44,Sony,Aero
+1a534081-fa28-493b-a6ba-a81d24c08fe8,EL-LA-SA-GR,electronics,Samsung Laptop in Green,laptop,Male,Adult,Green,1740.75,Samsung,
+6cd4c311-a2d2-4933-bc5e-ca1e3f2ff8b0,AC-HA-SA-PI,accessories,Samsung Hat in Pink,hat,Male,Adult,Pink,22.37,Samsung,
+859c12be-59b6-437c-96ba-8bd1eb9ca93c,CL-DR-SA-OR,clothing,Samsung Dress in Orange,dress,Unisex,Youth,Orange,10.41,Samsung,Essentials
+8b81e3e8-a311-48bd-93d4-74af2128c21d,HO-LA-FO-RE,home goods,Fossil Lamp in Red,lamp,Kids,Youth,Red,162.03,Fossil,
+89df153f-7548-4a77-932c-c655c485f2d0,HA-TO-GU-BR,handbag,Gucci Tote Bag in Brown,tote bag,Unisex,Adult,Brown,509.55,Gucci,
+dbc240bc-23ec-4efd-9946-a788f0702178,EL-LA-CO-PI,electronics,Coach Laptop in Pink,laptop,Female,Youth,Pink,755.23,Coach,
+8421b07b-5e5c-496a-80db-db6cd60f3ff4,HA-TO-CO-RE,handbag,Coach Tote Bag in Red,tote bag,Kids,Youth,Red,369.0,Coach,Aero
+70b076a9-d923-43d7-aeae-755699f06c90,AC-BE-AP-RE,accessories,Apple Belt in Red,belt,Male,Adult,Red,68.66,Apple,Pro
+98c6a955-dd08-4029-a2cf-974eb6b6068e,JE-BR-CO-BL,jewelry,Coach Bracelet in Black,bracelet,Kids,Youth,Black,1042.81,Coach,Sport
+01eebba4-5539-4c50-8795-8a379c47bd62,FO-BO-SO-GR,footwear,Sony Boots in Green,boots,Female,Adult,Green,84.11,Sony,
+34d377af-438e-468b-897f-5ad329640266,FO-BO-SO-BL,footwear,Sony Boots in Black,boots,Female,Youth,Black,93.05,Sony,Sport
+2b85ec1c-6bbe-4aa7-8ecd-2e3e78cd437d,HO-PI-FO-RE,home goods,Fossil Pillow in Red,pillow,Kids,Youth,Red,213.98,Fossil,
+bbf5cdc7-dee7-47e8-b9b3-54c09721b74a,FO-BO-FO-PI,footwear,Fossil Boots in Pink,boots,Kids,Youth,Pink,109.11,Fossil,
+91becfa4-7bbe-40a5-badc-d6bc39b45ee4,EL-LA-AP-OR,electronics,Apple Laptop in Orange,laptop,Male,Youth,Orange,472.63,Apple,
+b4e3db35-ae81-4b07-929a-98cdb29dba4d,HA-WA-FO-RE,handbag,Fossil Wallet in Red,wallet,Male,Youth,Red,330.83,Fossil,Pro
+2f3ce86f-2c02-4b43-899b-f94dd13d7d8b,HO-LA-NI-BL,home goods,Nike Lamp in Black,lamp,Unisex,Adult,Black,35.49,Nike,Pro
+d3446ce7-5916-4c04-92cd-8c7051e6683f,HA-WA-AM-BR,handbag,Amazon Wallet in Brown,wallet,Unisex,Adult,Brown,338.56,Amazon,Aero
+9b3fdca2-c2fa-4801-a84c-3416630b82ba,HA-TO-AP-OR,handbag,Apple Tote Bag in Orange,tote bag,Unisex,Adult,Orange,300.64,Apple,Pro
+d0d4b77f-e2eb-4cde-ad1e-2e7cec1b030e,HO-LA-AM-MU,home goods,Amazon Lamp in Multi-color,lamp,Kids,Youth,Multi-color,49.81,Amazon,Essentials
+57993b60-1952-49c4-89aa-654cf65d4dbf,HO-LA-SO-BR,home goods,Sony Lamp in Brown,lamp,Kids,Youth,Brown,54.55,Sony,Essentials
+72e840b4-da0a-4888-8e15-c143332e9474,EL-TA-AM-BL,electronics,Amazon Tablet in Black,tablet,Unisex,Youth,Black,1968.41,Amazon,
+421fea6e-4692-46ec-97b3-be1ebc7e03bc,EL-LA-NI-GR,electronics,Nike Laptop in Grey,laptop,Unisex,Youth,Grey,1386.28,Nike,Essentials
+57fab9b4-44ab-4943-969c-5600d6279a04,JE-RI-AP-PU,jewelry,Apple Ring in Purple,ring,Male,Adult,Purple,178.72,Apple,Essentials
+1bb74418-1485-49a0-83c6-c3722da0459f,FO-SN-SO-PU,footwear,Sony Sneakers in Purple,sneakers,Male,Youth,Purple,137.84,Sony,Pro
+9e27d36e-43af-49ea-b013-791c6f87a2ea,JE-RI-AP-BL,jewelry,Apple Ring in Blue,ring,Unisex,Adult,Blue,769.84,Apple,
+936171cb-e828-40a9-83d8-4adb36941055,EL-LA-AD-PI,electronics,Adidas Laptop in Pink,laptop,Male,Adult,Pink,1845.28,Adidas,Sport
+80020e20-cb44-43a8-8a5b-b31c26456ae7,HO-PI-GU-WH,home goods,Gucci Pillow in White,pillow,Female,Youth,White,23.83,Gucci,Sport
+36e5bac6-f7a9-44a1-bc32-29252ab59b89,FO-BO-AM-OR,footwear,Amazon Boots in Orange,boots,Kids,Youth,Orange,139.07,Amazon,
+ebb3ea82-e958-4436-8b93-b21c5460e705,WE-SM-SO-OR,wearables,Sony Smartwatch in Orange,smartwatch,Male,Adult,Orange,701.57,Sony,Signature
+d38acf39-489c-400a-aa22-a917bed7cf6a,HO-VA-AD-GR,home goods,Adidas Vase in Grey,vase,Female,Adult,Grey,83.6,Adidas,
+36762a33-759a-484b-b812-2e610cfe36b1,WE-SM-SA-GR,wearables,Samsung Smartwatch in Grey,smartwatch,Male,Adult,Grey,447.33,Samsung,
+6be39a73-2a92-4726-a51e-e5e91be9738f,JE-BR-AD-BL,jewelry,Adidas Bracelet in Blue,bracelet,Male,Adult,Blue,759.99,Adidas,
+106f25d2-b62f-4766-a3cf-9a7b481f0417,WE-SM-GU-WH,wearables,Gucci Smartwatch in White,smartwatch,Female,Youth,White,626.83,Gucci,
+cee60dfa-b62b-43f3-be35-f13f2315f092,FO-SN-SO-OR,footwear,Sony Sneakers in Orange,sneakers,Unisex,Adult,Orange,244.07,Sony,
+13228b9c-5170-4514-8d46-b4ce403b6bd8,EL-LA-AD-RE,electronics,Adidas Laptop in Red,laptop,Unisex,Adult,Red,554.69,Adidas,
+56309cb3-c092-45c7-85b0-a3d967e3a654,EL-TA-AD-OR,electronics,Adidas Tablet in Orange,tablet,Male,Adult,Orange,1161.18,Adidas,Essentials
+e1df5f55-5bf9-45ba-89a5-2afac66f1246,AC-SC-AM-BL,accessories,Amazon Scarf in Blue,scarf,Female,Adult,Blue,61.65,Amazon,Aero
+20164c09-aba5-4875-bdea-00a92b9101e5,JE-EA-SA-BR,jewelry,Samsung Earrings in Brown,earrings,Female,Youth,Brown,303.94,Samsung,
+2aba9cef-c729-4264-8675-0db0f02196cc,FO-SA-AP-YE,footwear,Apple Sandals in Yellow,sandals,Unisex,Adult,Yellow,391.51,Apple,Sport
+2ff602b1-96df-4ab1-8464-8c2c544a4c1a,CL-SO-SO-GR,clothing,Sony Socks in Green,socks,Female,Adult,Green,45.03,Sony,
+be0179e3-5cdf-454f-9169-a1b98e35a0bb,CL-SO-CO-GR,clothing,Coach Socks in Grey,socks,Kids,Youth,Grey,25.61,Coach,Pro
+28cecc77-c9f6-49c2-a284-0b691f8aa057,WE-SM-NI-PI,wearables,Nike Smartwatch in Pink,smartwatch,Male,Youth,Pink,73.77,Nike,
+94f1f40a-5810-4d03-b2b9-1866d865dc2f,FO-SN-SA-OR,footwear,Samsung Sneakers in Orange,sneakers,Unisex,Youth,Orange,276.18,Samsung,Signature
+3ebca4c3-b9a1-41d2-a7ff-ddd78956c75d,AC-HA-GU-PI,accessories,Gucci Hat in Pink,hat,Female,Adult,Pink,112.6,Gucci,
+be1ee532-a0e3-48b0-8b1f-c36375f0d8a1,FO-SA-FO-GR,footwear,Fossil Sandals in Green,sandals,Kids,Youth,Green,199.14,Fossil,Sport
+7f199619-eab4-4c33-9964-2fff65899b76,HO-VA-MI-WH,home goods,Michael Kors Vase in White,vase,Male,Youth,White,211.86,Michael Kors,Signature
+2f687488-9883-4270-8318-57107e0aee73,HA-BA-AP-PU,handbag,Apple Backpack in Purple,backpack,Female,Adult,Purple,486.12,Apple,
+eb7aa6ed-962f-496c-aed9-33deea39576c,CL-SH-SO-GR,clothing,Sony Shirt in Grey,shirt,Unisex,Youth,Grey,159.29,Sony,
+28a0c3d4-203f-4b68-ad2f-f3d26f40fcc7,EL-LA-MI-RE,electronics,Michael Kors Laptop in Red,laptop,Unisex,Adult,Red,2172.39,Michael Kors,
+b853f111-6135-496b-a9d6-615d1fe9a3fb,AC-HA-GE-BL,accessories,Generic Brand Hat in Blue,hat,Kids,Youth,Blue,13.54,Generic Brand,Signature
+3df65362-eb6f-453d-90ca-605059998326,FO-SA-GE-MU,footwear,Generic Brand Sandals in Multi-color,sandals,Kids,Youth,Multi-color,269.59,Generic Brand,
+0c27d209-d517-4a80-84fe-c853395d0cd0,HA-BA-SO-BL,handbag,Sony Backpack in Black,backpack,Kids,Youth,Black,519.84,Sony,Pro
+916141de-9e1a-4314-b6d1-2b592893453f,WE-SM-AM-GR,wearables,Amazon Smartwatch in Green,smartwatch,Male,Youth,Green,381.39,Amazon,
+12bb4af4-1350-47a5-8e42-92d30fde22d3,HA-WA-AD-BL,handbag,Adidas Wallet in Blue,wallet,Male,Youth,Blue,258.82,Adidas,
+a1f99dad-3592-403f-9746-6e5e895a1a1c,WE-SM-SA-PU,wearables,Samsung Smartwatch in Purple,smartwatch,Male,Adult,Purple,318.68,Samsung,
+727d5417-9be3-4188-a292-c68017f0eda7,AC-HA-AM-BR,accessories,Amazon Hat in Brown,hat,Unisex,Youth,Brown,62.33,Amazon,
+09fe5ca1-8bd4-42ce-8daf-a99935e23b1e,HO-PI-CO-GR,home goods,Coach Pillow in Green,pillow,Kids,Youth,Green,36.97,Coach,Pro
+c2326f86-dc42-406c-af76-1f4e2ce5e6ee,HA-WA-SO-BL,handbag,Sony Wallet in Black,wallet,Male,Youth,Black,127.33,Sony,
+936246cb-b276-4ff2-bfd9-ee2b836495ac,HO-LA-SO-YE,home goods,Sony Lamp in Yellow,lamp,Kids,Youth,Yellow,171.76,Sony,Aero
+7b22d628-5bc9-4b86-aa0c-d6b5daa24d6d,HO-PI-SA-BL,home goods,Samsung Pillow in Black,pillow,Female,Adult,Black,179.65,Samsung,
+8dd4cfcc-a509-41b6-8424-74f321dcd9b4,CL-SO-FO-BL,clothing,Fossil Socks in Blue,socks,Male,Youth,Blue,105.17,Fossil,Essentials
+bc526e08-23de-43a4-8893-283cdc1c1ed1,HO-LA-AD-OR,home goods,Adidas Lamp in Orange,lamp,Female,Adult,Orange,214.0,Adidas,Sport
+78c40f3d-c271-4a0f-8a02-744b11146d3c,HA-BA-SO-YE,handbag,Sony Backpack in Yellow,backpack,Male,Youth,Yellow,306.78,Sony,
+bbe81fed-4e9a-4411-8cad-af9a69026d5b,HO-VA-FO-BL,home goods,Fossil Vase in Black,vase,Male,Youth,Black,161.47,Fossil,Pro
+2a47dd40-eb2f-482d-9d41-12d67293102a,EL-TA-AD-GR,electronics,Adidas Tablet in Green,tablet,Male,Youth,Green,1339.5,Adidas,Pro
+8b6c5fb7-e270-437d-bc18-fc487c8e6d86,EL-TA-SO-GR,electronics,Sony Tablet in Green,tablet,Kids,Youth,Green,979.77,Sony,
+cb7f2e88-5704-4549-9fe8-58384f757fd1,JE-BR-SA-RE,jewelry,Samsung Bracelet in Red,bracelet,Kids,Youth,Red,621.03,Samsung,Signature
+8cc79e39-3af0-45c5-952d-a11c344baca3,FO-SA-GU-PU,footwear,Gucci Sandals in Purple,sandals,Male,Adult,Purple,231.57,Gucci,Pro
+4234abd0-535c-4919-8ccb-a2a3eb13f28e,JE-EA-FO-BL,jewelry,Fossil Earrings in Black,earrings,Unisex,Adult,Black,157.43,Fossil,Essentials
+8770c414-1d93-40d1-88da-7bad2b30488f,WE-SM-MI-PU,wearables,Michael Kors Smartwatch in Purple,smartwatch,Kids,Youth,Purple,572.21,Michael Kors,
+11f00473-929c-4131-801d-7e979194455a,HO-VA-GE-GR,home goods,Generic Brand Vase in Green,vase,Male,Youth,Green,222.28,Generic Brand,Essentials
+9c4d8aab-c1b2-4c62-a644-1664f2ed897e,AC-SC-SA-PI,accessories,Samsung Scarf in Pink,scarf,Female,Adult,Pink,32.64,Samsung,
+dd7e19ce-adfb-474d-a139-3078551be6a0,EL-TA-AP-BL,electronics,Apple Tablet in Black,tablet,Unisex,Youth,Black,2322.0,Apple,Essentials
+bf35f115-44cc-4764-9959-52cec38702fd,HO-VA-CO-PI,home goods,Coach Vase in Pink,vase,Female,Adult,Pink,159.48,Coach,Signature
+8060c517-c63d-4ea2-a012-814f73e51272,CL-SK-CO-BR,clothing,Coach Skirt in Brown,skirt,Unisex,Adult,Brown,61.87,Coach,
+902f27d0-36e7-47ed-a369-4900ca51e955,HO-LA-NI-OR,home goods,Nike Lamp in Orange,lamp,Kids,Youth,Orange,168.5,Nike,Aero
+6ddea08b-937d-47c6-9c2e-41b84343434c,CL-SO-SO-PI,clothing,Sony Socks in Pink,socks,Male,Youth,Pink,105.73,Sony,
+c7be18f1-d2d7-4f79-a1de-b698b7e9d22e,EL-TA-MI-PI,electronics,Michael Kors Tablet in Pink,tablet,Kids,Youth,Pink,1819.25,Michael Kors,
+cfdd4b23-bf82-4778-9ae5-d03704e4f65f,JE-EA-MI-PI,jewelry,Michael Kors Earrings in Pink,earrings,Male,Adult,Pink,674.95,Michael Kors,
+8abc0527-fe64-40d1-b058-dc024cac9b18,EL-LA-GE-OR,electronics,Generic Brand Laptop in Orange,laptop,Female,Adult,Orange,643.72,Generic Brand,
+880912f5-b2e8-4899-8d28-793835d7b804,HA-WA-SO-GR,handbag,Sony Wallet in Grey,wallet,Female,Youth,Grey,137.08,Sony,Signature
+40615511-a2e2-45a7-ae81-d63543e448b2,HA-TO-FO-PI,handbag,Fossil Tote Bag in Pink,tote bag,Kids,Youth,Pink,123.62,Fossil,
+341e35c4-2063-4977-b0e4-990aef453d3f,AC-SC-SO-OR,accessories,Sony Scarf in Orange,scarf,Unisex,Youth,Orange,48.19,Sony,
+41011ed4-6862-4a4c-949e-4683019ecad6,HA-BA-MI-GR,handbag,Michael Kors Backpack in Green,backpack,Male,Youth,Green,541.62,Michael Kors,Essentials
+8c90022d-c9b1-44e0-b2e1-d1a6f5fd9d3a,AC-HA-CO-PI,accessories,Coach Hat in Pink,hat,Kids,Youth,Pink,99.73,Coach,Aero
+2ea179a6-53ed-4b7e-bf67-051d3c2a1a48,JE-NE-AP-MU,jewelry,Apple Necklace in Multi-color,necklace,Male,Adult,Multi-color,349.75,Apple,Essentials
+16482328-5562-4190-ae86-3b6caf8edd3a,AC-BE-MI-GR,accessories,Michael Kors Belt in Grey,belt,Male,Adult,Grey,71.3,Michael Kors,Essentials
+3c917147-1677-4703-a171-38ca2a8f6a58,FO-BO-FO-YE,footwear,Fossil Boots in Yellow,boots,Female,Adult,Yellow,158.95,Fossil,
+a8cfc7fc-081c-48b4-9060-55e2528129bc,HA-BA-FO-BL,handbag,Fossil Backpack in Blue,backpack,Female,Youth,Blue,63.24,Fossil,Signature
+0f9f5f94-76cd-47b5-a955-30039f204336,CL-SK-GU-OR,clothing,Gucci Skirt in Orange,skirt,Kids,Youth,Orange,123.37,Gucci,Pro
+89dfaec8-734a-4719-b6b1-eb32a7c93cf0,HA-TO-CO-BR,handbag,Coach Tote Bag in Brown,tote bag,Kids,Youth,Brown,117.76,Coach,
+a3354b55-c93a-4b04-a5f2-8e144b6f4976,WE-SM-SA-GR,wearables,Samsung Smartwatch in Green,smartwatch,Unisex,Youth,Green,230.0,Samsung,
+fb8eb98d-180e-42c8-8f96-fff0db527d24,CL-SK-CO-GR,clothing,Coach Skirt in Green,skirt,Female,Adult,Green,92.17,Coach,
+f5d3a21a-08df-46c7-bd69-927c57982270,HO-VA-MI-BR,home goods,Michael Kors Vase in Brown,vase,Male,Adult,Brown,125.03,Michael Kors,
+be630eda-98d3-465f-94eb-b45d203ec8f2,WE-SM-SO-GR,wearables,Sony Smartwatch in Grey,smartwatch,Male,Adult,Grey,252.86,Sony,Pro
+320a79a5-ebd3-42d5-9bcf-636403d34859,HA-TO-GU-RE,handbag,Gucci Tote Bag in Red,tote bag,Unisex,Adult,Red,586.39,Gucci,Pro
+7be9a69b-12f2-459f-92e4-37dd45a9af8b,JE-NE-NI-GR,jewelry,Nike Necklace in Green,necklace,Kids,Youth,Green,35.1,Nike,
+29523d35-527e-41ff-a906-1f2f572401f3,JE-BR-CO-RE,jewelry,Coach Bracelet in Red,bracelet,Kids,Youth,Red,690.37,Coach,Signature
+8dcb447c-d178-4a26-8b8d-1710aaf85217,WE-SM-GU-OR,wearables,Gucci Smartwatch in Orange,smartwatch,Male,Adult,Orange,84.64,Gucci,Aero
+d9509ae3-3f85-40d1-bdec-fa7accccdb79,EL-TA-GU-RE,electronics,Gucci Tablet in Red,tablet,Kids,Youth,Red,1460.91,Gucci,
+660a73f9-8ce1-4ab7-8b60-7bb4e0fc8039,HO-VA-GE-PI,home goods,Generic Brand Vase in Pink,vase,Unisex,Youth,Pink,75.56,Generic Brand,
+b9a37be9-0e0d-48f9-8237-a0d18d787c07,FO-SN-SA-MU,footwear,Samsung Sneakers in Multi-color,sneakers,Unisex,Adult,Multi-color,251.46,Samsung,Essentials
+624b0abd-c10c-420a-bd3c-6fcf3738858a,AC-HA-GU-BR,accessories,Gucci Hat in Brown,hat,Unisex,Adult,Brown,70.43,Gucci,Signature
+df24074b-39c3-49db-a17d-118cee93e1cd,HA-TO-AM-BL,handbag,Amazon Tote Bag in Blue,tote bag,Unisex,Adult,Blue,279.93,Amazon,Sport
+6a6f3d03-2fba-4f42-af8d-5230f5d48c77,FO-BO-SA-RE,footwear,Samsung Boots in Red,boots,Male,Adult,Red,179.37,Samsung,Aero
+50bb5950-9166-4ea5-aefe-577f50337d8c,CL-SK-NI-GR,clothing,Nike Skirt in Grey,skirt,Kids,Youth,Grey,110.54,Nike,
+2245f6b4-360d-40b1-9e43-91f2901a442f,EL-TA-NI-PU,electronics,Nike Tablet in Purple,tablet,Kids,Youth,Purple,1174.46,Nike,
+30d60e13-c459-4c89-8295-a344a91294a7,HA-TO-GE-WH,handbag,Generic Brand Tote Bag in White,tote bag,Unisex,Adult,White,252.6,Generic Brand,
+beb80705-75e3-4c9a-b521-a549b49b39c6,HO-LA-SO-MU,home goods,Sony Lamp in Multi-color,lamp,Kids,Youth,Multi-color,241.29,Sony,
+0bc0a756-d932-4d8f-9cc0-8ab5a9dd1441,JE-NE-CO-BL,jewelry,Coach Necklace in Blue,necklace,Unisex,Youth,Blue,1310.23,Coach,
+42ed1e32-32e5-4be0-ae60-170ca97ffb8a,AC-BE-MI-WH,accessories,Michael Kors Belt in White,belt,Female,Adult,White,44.94,Michael Kors,Signature
+e9fc1f80-fd6e-44c8-a431-e8acc9a37c9f,EL-LA-GE-MU,electronics,Generic Brand Laptop in Multi-color,laptop,Kids,Youth,Multi-color,1283.75,Generic Brand,Sport
+331ea34a-4b12-46d5-9f04-c65f898f7e9a,AC-BE-MI-WH,accessories,Michael Kors Belt in White,belt,Female,Youth,White,77.19,Michael Kors,Aero
+57480e0d-4d30-4e21-b028-08d5f1750cc8,JE-NE-FO-PI,jewelry,Fossil Necklace in Pink,necklace,Kids,Youth,Pink,490.92,Fossil,
+0ec4100b-d8fc-4a84-900e-96bbbe623c39,HA-TO-AP-GR,handbag,Apple Tote Bag in Grey,tote bag,Male,Adult,Grey,218.74,Apple,
+37577f5a-8e92-455e-aeca-d69f36207b27,FO-SA-SA-MU,footwear,Samsung Sandals in Multi-color,sandals,Kids,Youth,Multi-color,147.25,Samsung,
+533b414c-7b66-485b-ab74-5ac8b3932749,EL-TA-GE-GR,electronics,Generic Brand Tablet in Green,tablet,Male,Youth,Green,515.45,Generic Brand,
+d72cbc79-db3f-4128-bc97-780c767e6b5d,WE-SM-FO-BL,wearables,Fossil Smartwatch in Black,smartwatch,Kids,Youth,Black,273.47,Fossil,Pro
+8a22dfaf-2f52-43ff-81b6-c713cb3f872e,CL-DR-GU-BL,clothing,Gucci Dress in Blue,dress,Kids,Youth,Blue,154.7,Gucci,
+59b84061-33b6-4249-8474-0d988abe485e,AC-BE-NI-GR,accessories,Nike Belt in Grey,belt,Unisex,Youth,Grey,23.15,Nike,Essentials
+f3a5defd-9457-4259-b370-e8167dd3d2c3,HA-TO-SA-RE,handbag,Samsung Tote Bag in Red,tote bag,Kids,Youth,Red,228.85,Samsung,
+849794f9-1516-4c3a-98ab-d89772a8ee3d,JE-BR-AD-MU,jewelry,Adidas Bracelet in Multi-color,bracelet,Female,Youth,Multi-color,878.34,Adidas,Sport
+5f799806-222c-45c6-aa12-4b9044836f85,HA-BA-GE-PU,handbag,Generic Brand Backpack in Purple,backpack,Female,Adult,Purple,272.12,Generic Brand,Pro
+6c9bbb3e-a80f-4753-89b4-bc225c32352a,HA-WA-FO-YE,handbag,Fossil Wallet in Yellow,wallet,Female,Adult,Yellow,312.36,Fossil,Essentials
+0d883310-c817-4b33-b663-69ffd6636978,HO-VA-CO-YE,home goods,Coach Vase in Yellow,vase,Kids,Youth,Yellow,169.18,Coach,Aero
+89b01537-f6de-47da-9c5a-882d76053e39,CL-SH-GE-WH,clothing,Generic Brand Shirt in White,shirt,Male,Adult,White,24.05,Generic Brand,Sport
+e08b3f54-758d-4f93-b0be-af6668919387,AC-HA-AD-GR,accessories,Adidas Hat in Green,hat,Unisex,Youth,Green,45.08,Adidas,
+5f9fa2c0-942a-422f-8684-5cfc3ba75e16,CL-SH-SA-BL,clothing,Samsung Shirt in Blue,shirt,Female,Youth,Blue,102.06,Samsung,Pro
+f8872584-b2b0-41f1-bb1a-2a6d4e6473ec,FO-SA-MI-YE,footwear,Michael Kors Sandals in Yellow,sandals,Female,Adult,Yellow,230.64,Michael Kors,Signature
+d7f29d46-f6c3-485d-b48f-568df0de0c6b,JE-EA-SA-BL,jewelry,Samsung Earrings in Blue,earrings,Male,Youth,Blue,788.47,Samsung,Signature
+d00645fe-1e89-4e9b-90dd-36c1e521fcc0,CL-SK-MI-MU,clothing,Michael Kors Skirt in Multi-color,skirt,Female,Youth,Multi-color,165.73,Michael Kors,
+422a2d26-deff-4d41-aaa1-4e4ae58584f6,EL-LA-CO-PU,electronics,Coach Laptop in Purple,laptop,Female,Adult,Purple,1182.98,Coach,Aero
+52a08db0-c202-4ee7-abd0-f26a2e4c02ab,EL-TA-SO-BL,electronics,Sony Tablet in Black,tablet,Male,Youth,Black,1713.57,Sony,Aero
+c3f0aad6-40ad-409c-950b-256a91b5aa54,FO-BO-MI-YE,footwear,Michael Kors Boots in Yellow,boots,Female,Youth,Yellow,439.25,Michael Kors,
+14ee8f0e-bc2e-49b5-8f79-a3c03e1c693c,HA-TO-AP-MU,handbag,Apple Tote Bag in Multi-color,tote bag,Kids,Youth,Multi-color,560.58,Apple,Essentials
+39767e14-db75-40b7-bc05-10ac74130800,FO-SN-SA-BR,footwear,Samsung Sneakers in Brown,sneakers,Unisex,Youth,Brown,37.83,Samsung,
+43ca0ab6-2cec-408e-ad30-194fde57df9a,CL-SK-AP-WH,clothing,Apple Skirt in White,skirt,Female,Adult,White,142.44,Apple,
+970ebd82-6867-4a95-a1a5-7335a86edaef,JE-EA-FO-BR,jewelry,Fossil Earrings in Brown,earrings,Male,Youth,Brown,133.5,Fossil,
+1de62ca9-1d42-456c-9f8f-f94a6a03c50d,HO-LA-SA-RE,home goods,Samsung Lamp in Red,lamp,Unisex,Youth,Red,52.49,Samsung,Pro
+ace62847-004e-4f8a-8b15-a68cc86fc87f,WE-SM-AP-PU,wearables,Apple Smartwatch in Purple,smartwatch,Kids,Youth,Purple,433.79,Apple,Pro
+07a7d3bb-8601-4981-95d1-00e82f9a4533,JE-RI-SO-BL,jewelry,Sony Ring in Blue,ring,Male,Youth,Blue,1098.41,Sony,
+63f1be2f-feb5-463a-8696-24f301d5588a,AC-HA-GE-GR,accessories,Generic Brand Hat in Grey,hat,Kids,Youth,Grey,75.72,Generic Brand,Signature
+9bae67b1-9075-4c6e-bbc6-e7e786111f4a,CL-DR-SA-MU,clothing,Samsung Dress in Multi-color,dress,Female,Adult,Multi-color,86.8,Samsung,
+35edbba2-d397-4bee-af55-2cc72601d805,HA-BA-GU-PI,handbag,Gucci Backpack in Pink,backpack,Male,Adult,Pink,390.42,Gucci,
+e77c0cd5-6e22-4f2c-baca-b1020f11c1f5,JE-BR-MI-PI,jewelry,Michael Kors Bracelet in Pink,bracelet,Male,Adult,Pink,1035.06,Michael Kors,
+020cc415-e6c0-48e4-90e3-68089e27f148,JE-BR-SA-OR,jewelry,Samsung Bracelet in Orange,bracelet,Unisex,Youth,Orange,647.69,Samsung,
+182b8ab5-cbc9-4f16-bf49-871c4e22830b,CL-DR-NI-OR,clothing,Nike Dress in Orange,dress,Kids,Youth,Orange,20.47,Nike,Pro
+2d7fb9ad-2179-4f59-9091-939b60843359,EL-LA-SA-WH,electronics,Samsung Laptop in White,laptop,Male,Adult,White,242.55,Samsung,
+f053d136-d009-4734-82ee-06c0bdb349a1,HA-WA-NI-YE,handbag,Nike Wallet in Yellow,wallet,Unisex,Adult,Yellow,318.28,Nike,
+a253d0cf-521c-4ecf-9f14-d27124d4944d,JE-RI-CO-GR,jewelry,Coach Ring in Green,ring,Kids,Youth,Green,719.15,Coach,
+511f26eb-696d-4eca-958d-13ab4feaefe1,EL-LA-AP-BL,electronics,Apple Laptop in Blue,laptop,Unisex,Adult,Blue,1154.58,Apple,Signature
+4f594867-4b62-4a04-9abb-ab1b3424950a,AC-HA-SO-BR,accessories,Sony Hat in Brown,hat,Female,Adult,Brown,20.95,Sony,Signature
+849aba3c-4efa-4814-8189-498ea8f730a7,AC-HA-MI-BL,accessories,Michael Kors Hat in Blue,hat,Male,Youth,Blue,23.69,Michael Kors,Pro
+f6ebca12-bd31-4d78-82c5-9d450a283aea,CL-SK-AP-BR,clothing,Apple Skirt in Brown,skirt,Kids,Youth,Brown,125.83,Apple,Pro
+06d5e9fc-29e0-4dc7-8bbc-f1abfae88e71,EL-TA-CO-BR,electronics,Coach Tablet in Brown,tablet,Female,Adult,Brown,1294.42,Coach,Essentials
+823ee10e-3a9a-4bd4-ad20-85051f71cf47,WE-SM-GU-BL,wearables,Gucci Smartwatch in Blue,smartwatch,Unisex,Adult,Blue,225.76,Gucci,Essentials
+95600f13-7509-491f-aa4a-cc7f7954d80c,JE-BR-FO-WH,jewelry,Fossil Bracelet in White,bracelet,Unisex,Adult,White,117.55,Fossil,Aero
+2c87fdfc-b6d6-48ed-8f15-6923ad77d7cc,HO-LA-AD-YE,home goods,Adidas Lamp in Yellow,lamp,Kids,Youth,Yellow,141.78,Adidas,Essentials
+88b62fb5-cc81-4f08-a2a2-e71e5cc3e62b,HO-PI-MI-YE,home goods,Michael Kors Pillow in Yellow,pillow,Kids,Youth,Yellow,122.55,Michael Kors,
+8bce935a-58ee-4cf7-8688-14c9b756bdf6,EL-LA-CO-BL,electronics,Coach Laptop in Black,laptop,Kids,Youth,Black,2655.6,Coach,Signature
+efb60c20-a4a6-460e-9423-f8bfc4a79812,AC-BE-CO-WH,accessories,Coach Belt in White,belt,Female,Youth,White,108.21,Coach,Sport
+9fc3225f-1210-4a74-92b2-926e8d89fbcc,HA-TO-GE-PU,handbag,Generic Brand Tote Bag in Purple,tote bag,Unisex,Youth,Purple,115.9,Generic Brand,
+a615845f-63ea-4149-9445-f2ca335044ad,HA-BA-GU-BR,handbag,Gucci Backpack in Brown,backpack,Unisex,Adult,Brown,564.02,Gucci,Sport
+c42bc5c7-2d3e-476f-8afc-be1f01ad5545,CL-DR-AP-MU,clothing,Apple Dress in Multi-color,dress,Kids,Youth,Multi-color,171.83,Apple,
+6d667c27-dc4f-43ee-86ec-a5306fa1f411,HO-PI-FO-GR,home goods,Fossil Pillow in Grey,pillow,Female,Youth,Grey,193.5,Fossil,Pro
+1ee143e5-3b08-44ef-90c0-29310da1051f,FO-SA-AM-GR,footwear,Amazon Sandals in Grey,sandals,Female,Youth,Grey,234.88,Amazon,Sport
+4509d1ea-f201-4645-915f-a145f8725c42,HO-LA-CO-YE,home goods,Coach Lamp in Yellow,lamp,Male,Adult,Yellow,93.44,Coach,Sport
+910d571c-757b-49be-88ec-ced7848e672a,WE-SM-SO-WH,wearables,Sony Smartwatch in White,smartwatch,Kids,Youth,White,599.43,Sony,Aero
+675e6aab-2e88-4973-ae5f-55bebd47dd06,WE-SM-GE-RE,wearables,Generic Brand Smartwatch in Red,smartwatch,Female,Youth,Red,88.63,Generic Brand,Signature
+5a0f266d-55e0-4c76-9752-ac8d111b6184,HO-VA-MI-MU,home goods,Michael Kors Vase in Multi-color,vase,Unisex,Youth,Multi-color,176.33,Michael Kors,Essentials
+2dc7303c-e558-41ce-88e3-9e88ba9f272c,EL-TA-MI-GR,electronics,Michael Kors Tablet in Green,tablet,Female,Adult,Green,2766.02,Michael Kors,
+9a546bf5-2d59-459e-953b-0ce5a754d051,EL-LA-FO-OR,electronics,Fossil Laptop in Orange,laptop,Unisex,Adult,Orange,1411.54,Fossil,Pro
+1bb9adb9-f5fc-46b2-9395-98379077d3e2,FO-SA-AM-RE,footwear,Amazon Sandals in Red,sandals,Kids,Youth,Red,165.49,Amazon,Essentials
+e291d64a-1a43-45e4-9e31-33ba2a29c59c,FO-SA-AD-GR,footwear,Adidas Sandals in Green,sandals,Female,Youth,Green,294.55,Adidas,Essentials
+46e498d6-62b0-4d99-a507-e6eaf6b223ae,JE-RI-MI-OR,jewelry,Michael Kors Ring in Orange,ring,Male,Youth,Orange,733.23,Michael Kors,Essentials
+10752720-5c2c-4fa8-b03d-057c5559d15c,WE-SM-SA-GR,wearables,Samsung Smartwatch in Grey,smartwatch,Kids,Youth,Grey,300.78,Samsung,
+85209ecb-d567-4ee0-87bc-ad74d34f8698,EL-TA-CO-BL,electronics,Coach Tablet in Blue,tablet,Male,Adult,Blue,1349.17,Coach,Aero
+99f1bba8-1e83-4021-aa50-383ad4151c8b,WE-SM-SO-GR,wearables,Sony Smartwatch in Grey,smartwatch,Unisex,Youth,Grey,391.35,Sony,Sport
+7ed4c1ba-238a-4884-b20f-772b28aea362,FO-SA-SO-MU,footwear,Sony Sandals in Multi-color,sandals,Kids,Youth,Multi-color,194.84,Sony,Aero
+907b6532-32b9-4651-8067-e2691b136bcd,JE-EA-AM-YE,jewelry,Amazon Earrings in Yellow,earrings,Kids,Youth,Yellow,679.72,Amazon,Essentials
+fef6d01e-e3a4-4d08-b4bb-66f2888ffcac,CL-SO-SO-RE,clothing,Sony Socks in Red,socks,Kids,Youth,Red,156.38,Sony,Signature
+89ac9242-aff2-4a1c-aca8-2a35c102989c,WE-SM-SA-OR,wearables,Samsung Smartwatch in Orange,smartwatch,Male,Youth,Orange,489.18,Samsung,Essentials
+49dedf4e-138f-4f91-bf7c-b1b35071708e,WE-SM-GU-GR,wearables,Gucci Smartwatch in Grey,smartwatch,Unisex,Youth,Grey,704.49,Gucci,
+da7e7804-46c8-4411-a64c-b7ffa24342f0,CL-SK-AP-PI,clothing,Apple Skirt in Pink,skirt,Unisex,Youth,Pink,68.89,Apple,Signature
+beb9b3ed-b5fb-41b4-a0b9-e90f1d62b3cd,JE-EA-GU-MU,jewelry,Gucci Earrings in Multi-color,earrings,Unisex,Adult,Multi-color,399.15,Gucci,
+00eb255c-1b7e-4596-b322-abad323d2ac5,EL-LA-FO-PU,electronics,Fossil Laptop in Purple,laptop,Male,Youth,Purple,1738.58,Fossil,Sport
+aec91975-0946-4963-9069-643ee64b7828,HO-PI-SO-MU,home goods,Sony Pillow in Multi-color,pillow,Female,Youth,Multi-color,145.5,Sony,Aero
+c12bbaa3-760b-43bb-831a-747fd319789d,WE-SM-GU-GR,wearables,Gucci Smartwatch in Green,smartwatch,Female,Adult,Green,360.63,Gucci,Essentials
+55f89597-e98e-4cae-a13e-17e28b2ddbcb,WE-SM-NI-PI,wearables,Nike Smartwatch in Pink,smartwatch,Unisex,Adult,Pink,181.76,Nike,Pro
+1ae22501-1d46-4c2e-befe-482ff936e001,HA-TO-NI-MU,handbag,Nike Tote Bag in Multi-color,tote bag,Unisex,Youth,Multi-color,242.55,Nike,
+44a42e08-3745-4e68-ba16-9623dc994acc,EL-LA-MI-BL,electronics,Michael Kors Laptop in Black,laptop,Unisex,Youth,Black,1190.87,Michael Kors,Aero
+04063fe7-9921-4f1c-9e18-f142bd4af6b0,JE-BR-SA-OR,jewelry,Samsung Bracelet in Orange,bracelet,Male,Youth,Orange,869.45,Samsung,Aero
+c6d9126c-3b65-45b0-82b0-6bbc1b02dfb0,HO-PI-AP-GR,home goods,Apple Pillow in Grey,pillow,Unisex,Adult,Grey,33.58,Apple,Signature
+a746c2a4-0c24-42c0-a604-69fda973b4c6,CL-PA-SO-BL,clothing,Sony Pants in Blue,pants,Unisex,Youth,Blue,30.12,Sony,
+6b571e1c-176e-46d6-a389-cc72d95dc90f,JE-RI-GE-BR,jewelry,Generic Brand Ring in Brown,ring,Unisex,Youth,Brown,396.89,Generic Brand,Signature
+970f0862-8031-4ff8-b319-1b211087dcb0,EL-TA-GU-PI,electronics,Gucci Tablet in Pink,tablet,Male,Adult,Pink,1999.65,Gucci,Signature
+4c80ddea-1e56-417b-9bcb-59fb82e70e36,HA-TO-GU-OR,handbag,Gucci Tote Bag in Orange,tote bag,Kids,Youth,Orange,591.96,Gucci,Aero
+9f84c521-0ee4-4c5f-b5c2-8e67b11a927d,AC-BE-SA-YE,accessories,Samsung Belt in Yellow,belt,Male,Adult,Yellow,31.59,Samsung,
+4caccb9d-8fe9-4796-ac8c-2f5a08dea217,FO-SA-SA-GR,footwear,Samsung Sandals in Grey,sandals,Male,Adult,Grey,293.84,Samsung,Signature
+fd4dff36-3fd1-4fe5-8c4d-a5917f95748f,CL-PA-FO-PI,clothing,Fossil Pants in Pink,pants,Male,Youth,Pink,85.04,Fossil,Aero
+74fd38a8-aff1-4df2-beab-6031d02e0e98,EL-LA-AP-GR,electronics,Apple Laptop in Green,laptop,Kids,Youth,Green,2231.51,Apple,Aero
+70f0c77f-7551-42ff-904b-5a6144a2db85,JE-BR-SO-BL,jewelry,Sony Bracelet in Blue,bracelet,Female,Youth,Blue,995.58,Sony,
+70852d9b-4c69-49f1-bb92-bad26bcef1ec,FO-SN-CO-GR,footwear,Coach Sneakers in Grey,sneakers,Male,Adult,Grey,441.93,Coach,
+3ff16ada-199a-408b-9451-4660f4aaf455,CL-SK-CO-BR,clothing,Coach Skirt in Brown,skirt,Unisex,Youth,Brown,31.32,Coach,Pro
+802b49ae-41c8-4b5a-91ba-0594bc81321c,WE-SM-CO-OR,wearables,Coach Smartwatch in Orange,smartwatch,Female,Youth,Orange,82.85,Coach,
+d65af1fb-88c0-42af-88bf-3fd2df3e7913,EL-TA-MI-WH,electronics,Michael Kors Tablet in White,tablet,Kids,Youth,White,1440.08,Michael Kors,
+c1075bee-1853-4c67-940a-53a941fc8f41,HA-BA-AD-YE,handbag,Adidas Backpack in Yellow,backpack,Kids,Youth,Yellow,173.3,Adidas,Signature
+9e115ffe-d09e-4e55-87a8-75e998ba0c2f,WE-SM-CO-MU,wearables,Coach Smartwatch in Multi-color,smartwatch,Male,Youth,Multi-color,426.74,Coach,
+2e4666c3-e46d-427a-afa4-9a59cce7815b,EL-TA-NI-YE,electronics,Nike Tablet in Yellow,tablet,Unisex,Youth,Yellow,1103.47,Nike,Essentials
+af80bb8e-886e-41ba-a5c9-32c8116944b9,JE-BR-AM-OR,jewelry,Amazon Bracelet in Orange,bracelet,Male,Adult,Orange,972.79,Amazon,Aero
+499b0541-bd5f-4142-91bf-ad4bab8d603a,WE-SM-MI-MU,wearables,Michael Kors Smartwatch in Multi-color,smartwatch,Unisex,Adult,Multi-color,448.46,Michael Kors,Pro
+fc09705f-3426-4cc4-aede-e1e5353236bf,CL-SO-AP-GR,clothing,Apple Socks in Grey,socks,Kids,Youth,Grey,73.08,Apple,Sport
+73e32049-3473-4fae-8462-a5e1e607f281,HA-WA-SO-YE,handbag,Sony Wallet in Yellow,wallet,Unisex,Adult,Yellow,132.4,Sony,Signature
+5f203c11-3609-459d-a929-283746fadb38,CL-SK-SA-BR,clothing,Samsung Skirt in Brown,skirt,Kids,Youth,Brown,32.59,Samsung,Essentials
+a9c7d954-3314-4c65-967a-c3358babbb37,AC-SC-SA-YE,accessories,Samsung Scarf in Yellow,scarf,Unisex,Adult,Yellow,72.08,Samsung,Signature
+1f1d70f1-2a53-407e-a39e-bac399284dbd,CL-SK-AD-MU,clothing,Adidas Skirt in Multi-color,skirt,Kids,Youth,Multi-color,110.89,Adidas,
+0e82a0c2-1355-4dea-b173-45d0c4b6a7c5,AC-BE-SA-OR,accessories,Samsung Belt in Orange,belt,Male,Youth,Orange,51.3,Samsung,Aero
+9abc99dc-e4ca-40f8-9daa-1fcd84b99dec,HO-VA-FO-WH,home goods,Fossil Vase in White,vase,Kids,Youth,White,245.03,Fossil,Essentials
+6225b5cc-ca1d-4767-a184-b2a62c4e54bb,WE-SM-NI-MU,wearables,Nike Smartwatch in Multi-color,smartwatch,Female,Adult,Multi-color,267.55,Nike,Sport
+182e7e5f-720a-46ab-bc7b-a7c0d78a53be,HA-WA-FO-BL,handbag,Fossil Wallet in Black,wallet,Female,Youth,Black,61.14,Fossil,Sport
+3b0f6370-cefc-419e-8b4d-3f4092ecd8f4,AC-HA-AM-PI,accessories,Amazon Hat in Pink,hat,Kids,Youth,Pink,31.94,Amazon,
+e829c8f1-2578-4cff-bc82-1589c39bfa09,JE-BR-GU-PU,jewelry,Gucci Bracelet in Purple,bracelet,Unisex,Adult,Purple,428.91,Gucci,
+3216f1a2-bf7e-4de9-b636-cb400192a96b,HA-BA-SA-BL,handbag,Samsung Backpack in Blue,backpack,Female,Youth,Blue,253.7,Samsung,Sport
+dc3aeab7-df4a-4e37-b351-e3605247d8fc,AC-HA-AP-OR,accessories,Apple Hat in Orange,hat,Male,Adult,Orange,46.95,Apple,Aero
+8cd33d44-a81a-41ac-baa2-a25f838d9b5d,FO-SA-MI-BL,footwear,Michael Kors Sandals in Blue,sandals,Kids,Youth,Blue,140.44,Michael Kors,Pro
+75acca0c-2c66-48ee-89e9-24d15c7bebbc,FO-SA-MI-PI,footwear,Michael Kors Sandals in Pink,sandals,Female,Youth,Pink,358.72,Michael Kors,Sport
+e92ed3a0-6503-4d1b-8b17-37856d1c7db1,WE-SM-CO-GR,wearables,Coach Smartwatch in Green,smartwatch,Male,Adult,Green,238.91,Coach,
+71afa44a-0f05-41a2-b878-8275927c4a35,CL-SO-CO-BR,clothing,Coach Socks in Brown,socks,Kids,Youth,Brown,56.57,Coach,Aero
+82fe811a-27ef-4ac1-8061-f416dd5b5563,HA-BA-FO-PI,handbag,Fossil Backpack in Pink,backpack,Kids,Youth,Pink,136.48,Fossil,Essentials
+5885739b-2ed8-48e8-875d-e88cdb67feb4,HO-PI-MI-BL,home goods,Michael Kors Pillow in Black,pillow,Kids,Youth,Black,60.21,Michael Kors,Aero
+a0c6e9c2-bc73-49b8-bfb2-19f9a72515bc,EL-TA-AD-BR,electronics,Adidas Tablet in Brown,tablet,Male,Youth,Brown,710.29,Adidas,
+c3d98750-67fe-4c19-b0f4-7429004aaca9,JE-RI-FO-OR,jewelry,Fossil Ring in Orange,ring,Kids,Youth,Orange,386.89,Fossil,Sport
+2bd8c88d-3b33-4fd2-b757-b23e33834b72,CL-PA-AD-BL,clothing,Adidas Pants in Blue,pants,Unisex,Youth,Blue,65.61,Adidas,Aero
+6e49569b-d1bd-47e9-9a4a-99994332a161,FO-SN-AM-BR,footwear,Amazon Sneakers in Brown,sneakers,Female,Adult,Brown,238.74,Amazon,Essentials
+35f510b8-91da-409e-8ea0-b9a072130799,HO-PI-AM-GR,home goods,Amazon Pillow in Grey,pillow,Unisex,Youth,Grey,242.71,Amazon,Sport
+d7b79fc8-62f3-4c49-8186-16773361220d,HO-PI-AM-GR,home goods,Amazon Pillow in Grey,pillow,Unisex,Adult,Grey,66.52,Amazon,Signature
+d7fabcc0-3108-41d3-9498-9fcb0019bfb5,HO-PI-AD-BR,home goods,Adidas Pillow in Brown,pillow,Male,Youth,Brown,233.35,Adidas,Pro
+512914ae-77f5-4007-9049-ea0ea7cd6e43,HA-BA-FO-BL,handbag,Fossil Backpack in Blue,backpack,Female,Adult,Blue,159.98,Fossil,Pro
+486fd54b-c745-4d8c-b350-34803882a7f8,HA-BA-SA-MU,handbag,Samsung Backpack in Multi-color,backpack,Kids,Youth,Multi-color,307.82,Samsung,Pro
+b2e0ce7e-5021-48c6-a915-e1991857238c,EL-TA-NI-GR,electronics,Nike Tablet in Green,tablet,Male,Youth,Green,1463.31,Nike,Pro
+73f95a55-b3a0-4811-be76-a5a0c52a1b7d,WE-SM-MI-GR,wearables,Michael Kors Smartwatch in Grey,smartwatch,Kids,Youth,Grey,328.95,Michael Kors,Sport
+d1c2a794-b6ab-4a6e-b483-812feed734b8,JE-NE-GU-BR,jewelry,Gucci Necklace in Brown,necklace,Unisex,Youth,Brown,556.5,Gucci,Signature
+01ac3d14-cef5-42ae-8102-b1a1caeca9c3,EL-TA-AP-WH,electronics,Apple Tablet in White,tablet,Female,Youth,White,682.15,Apple,Aero
+3f85241e-f938-4037-93ca-2a0427901a5f,EL-LA-MI-WH,electronics,Michael Kors Laptop in White,laptop,Kids,Youth,White,1313.13,Michael Kors,
+cbd84227-8519-466d-abaf-2dd7797ee9ea,JE-RI-FO-YE,jewelry,Fossil Ring in Yellow,ring,Female,Youth,Yellow,421.47,Fossil,Signature
+266444eb-55c1-4f7a-9ab2-3dd18848961c,EL-TA-GE-BR,electronics,Generic Brand Tablet in Brown,tablet,Male,Adult,Brown,774.08,Generic Brand,Pro
+a5789d0f-fc46-4d9c-ae50-73d765fddf99,FO-BO-AD-GR,footwear,Adidas Boots in Grey,boots,Unisex,Adult,Grey,254.62,Adidas,Aero
+8fac5668-2caf-4700-bf5b-08edb307222f,CL-DR-NI-GR,clothing,Nike Dress in Green,dress,Unisex,Youth,Green,35.68,Nike,
+2801a1bc-e7a4-42f3-bbab-8305271c4a79,HO-LA-SO-PI,home goods,Sony Lamp in Pink,lamp,Kids,Youth,Pink,242.14,Sony,
+63365759-5456-4c57-9397-5c4267dd7889,HO-PI-NI-YE,home goods,Nike Pillow in Yellow,pillow,Unisex,Adult,Yellow,178.54,Nike,Sport
+d98128f5-2742-4cb9-ac67-bea5328ef12a,JE-NE-GU-GR,jewelry,Gucci Necklace in Grey,necklace,Male,Adult,Grey,1053.31,Gucci,Pro
+cf9e35ab-52ba-4720-b90f-3d3431218feb,AC-BE-CO-OR,accessories,Coach Belt in Orange,belt,Unisex,Youth,Orange,86.64,Coach,
+a0ac2939-d8a5-46f2-a3e6-5072f57af26e,JE-BR-MI-RE,jewelry,Michael Kors Bracelet in Red,bracelet,Female,Youth,Red,379.22,Michael Kors,
+a17f022b-8a68-43c2-acee-916420c88cd6,JE-NE-AM-GR,jewelry,Amazon Necklace in Grey,necklace,Male,Youth,Grey,774.2,Amazon,
+22b89760-2e4c-4c8e-bbd5-281f80b69c47,WE-SM-AM-WH,wearables,Amazon Smartwatch in White,smartwatch,Male,Youth,White,324.22,Amazon,
+53a9d8f4-7780-4b25-b978-0d5d5565c13c,EL-LA-AM-YE,electronics,Amazon Laptop in Yellow,laptop,Male,Adult,Yellow,1018.61,Amazon,Signature
+1666db62-489f-43ea-8312-f8119c462a68,HO-VA-GE-GR,home goods,Generic Brand Vase in Grey,vase,Female,Youth,Grey,174.53,Generic Brand,
+224a3dfe-d295-461a-a5c1-106f892e6f2d,JE-NE-FO-BR,jewelry,Fossil Necklace in Brown,necklace,Kids,Youth,Brown,486.19,Fossil,
+c1a0af09-0ab1-4d1c-af2a-18132c458488,HO-VA-GU-GR,home goods,Gucci Vase in Grey,vase,Female,Youth,Grey,248.78,Gucci,
+1f39191e-9a3e-423c-907f-9a2226a4cbfd,WE-SM-NI-BR,wearables,Nike Smartwatch in Brown,smartwatch,Male,Youth,Brown,214.01,Nike,Pro
+5fe9e405-71ac-467f-874a-92200d1053a2,HA-BA-GE-BR,handbag,Generic Brand Backpack in Brown,backpack,Unisex,Youth,Brown,288.88,Generic Brand,
+885ba722-e7e5-4c17-a8f7-fb7381711ccc,FO-BO-FO-YE,footwear,Fossil Boots in Yellow,boots,Kids,Youth,Yellow,62.15,Fossil,Sport
+9f23c53a-b93b-4563-a9fe-763be778a8f6,JE-EA-MI-YE,jewelry,Michael Kors Earrings in Yellow,earrings,Kids,Youth,Yellow,1060.64,Michael Kors,Pro
+fdead226-f5ba-4ded-9d85-da64c5346c2d,AC-HA-MI-GR,accessories,Michael Kors Hat in Green,hat,Kids,Youth,Green,27.13,Michael Kors,Aero
+7a79f9b5-e2bc-48c4-aaf1-56621f90df25,HA-TO-FO-GR,handbag,Fossil Tote Bag in Green,tote bag,Female,Youth,Green,210.79,Fossil,Pro
+70934717-6a09-452e-afd2-875967442619,WE-SM-CO-PI,wearables,Coach Smartwatch in Pink,smartwatch,Female,Adult,Pink,413.55,Coach,
+d7d822de-140b-4a03-8935-0e31894e18d4,EL-LA-AD-PI,electronics,Adidas Laptop in Pink,laptop,Female,Youth,Pink,454.65,Adidas,
+ed9e73c9-0e03-42f1-8c3f-e6962b253922,CL-DR-AP-RE,clothing,Apple Dress in Red,dress,Unisex,Adult,Red,146.34,Apple,
+195605e1-3b91-4d15-b699-8fd2f83d368e,JE-EA-MI-GR,jewelry,Michael Kors Earrings in Green,earrings,Male,Youth,Green,186.4,Michael Kors,Aero
+ce98023f-a64d-427d-9408-79fe7569df5f,JE-NE-FO-OR,jewelry,Fossil Necklace in Orange,necklace,Unisex,Youth,Orange,532.59,Fossil,Aero
+fdf67617-5989-4f43-9d73-3b5473601908,WE-SM-MI-BL,wearables,Michael Kors Smartwatch in Black,smartwatch,Unisex,Adult,Black,334.73,Michael Kors,Pro
+1531f853-566e-4f54-986f-7bf217161255,EL-LA-MI-BL,electronics,Michael Kors Laptop in Blue,laptop,Kids,Youth,Blue,1775.48,Michael Kors,
+187f80c8-bae7-45b9-b5dd-7079d9ffef60,CL-SO-AD-BL,clothing,Adidas Socks in Black,socks,Unisex,Adult,Black,77.68,Adidas,Signature
+d9945b8e-fafa-435c-bd90-d28b4c1393ac,HA-WA-SA-WH,handbag,Samsung Wallet in White,wallet,Kids,Youth,White,300.56,Samsung,
+d983f514-bb40-40f6-91ca-32d3f4b31ca8,FO-BO-AP-BL,footwear,Apple Boots in Blue,boots,Kids,Youth,Blue,225.68,Apple,
+0eb54800-c3a9-4054-b955-a810583733b0,JE-NE-SO-YE,jewelry,Sony Necklace in Yellow,necklace,Female,Adult,Yellow,1016.36,Sony,Pro
+95f6811a-9317-4554-bf82-b09f5e231eb2,JE-NE-NI-RE,jewelry,Nike Necklace in Red,necklace,Male,Adult,Red,950.21,Nike,
+d39800aa-ab87-443c-b3c3-e8dbd164ed25,AC-BE-AM-BL,accessories,Amazon Belt in Black,belt,Male,Adult,Black,79.06,Amazon,
+7d6088a2-ee73-4b01-b05a-d9851e681d91,WE-SM-AP-OR,wearables,Apple Smartwatch in Orange,smartwatch,Kids,Youth,Orange,272.25,Apple,Signature
+a044ac11-3ab4-402c-9788-59b10aa0f35d,CL-SK-GE-BR,clothing,Generic Brand Skirt in Brown,skirt,Unisex,Youth,Brown,64.7,Generic Brand,
+aeb35ffc-8b17-4923-a980-fbd70d54abef,HA-WA-FO-MU,handbag,Fossil Wallet in Multi-color,wallet,Female,Adult,Multi-color,134.4,Fossil,Aero
+95756879-5393-483a-9bae-aa86b347f5ab,EL-TA-CO-PU,electronics,Coach Tablet in Purple,tablet,Male,Adult,Purple,2317.4,Coach,
+f60108da-e318-42d8-b998-98a5390a039c,WE-SM-AM-YE,wearables,Amazon Smartwatch in Yellow,smartwatch,Male,Adult,Yellow,414.03,Amazon,
+bd087c90-ce0e-4d64-affa-86e3c7016183,HO-PI-NI-PU,home goods,Nike Pillow in Purple,pillow,Female,Youth,Purple,212.11,Nike,Sport
+6c272649-c20c-4002-bdf7-bb1614d5a79e,EL-TA-SO-MU,electronics,Sony Tablet in Multi-color,tablet,Male,Youth,Multi-color,1831.96,Sony,Pro
+abc59ef0-f7be-4fe3-87b1-21f6333c4eae,JE-NE-NI-BL,jewelry,Nike Necklace in Blue,necklace,Kids,Youth,Blue,336.5,Nike,
+76fe3e05-4bf6-47db-8c36-4382d4964040,JE-EA-SA-PU,jewelry,Samsung Earrings in Purple,earrings,Male,Youth,Purple,550.9,Samsung,Essentials
+d2d85494-09a9-44f9-a7b5-3d5c054f8855,FO-SN-SA-GR,footwear,Samsung Sneakers in Green,sneakers,Male,Youth,Green,200.08,Samsung,
+d13c2744-7f43-4dc9-a755-bfa7fe496d49,FO-BO-NI-OR,footwear,Nike Boots in Orange,boots,Kids,Youth,Orange,242.28,Nike,Signature
+010f0022-6393-4499-bd3b-a4eb9ec5e7fa,HA-TO-AP-PI,handbag,Apple Tote Bag in Pink,tote bag,Male,Youth,Pink,274.98,Apple,Signature
+c16a9bce-ce2a-40d2-b8c0-e5e14eab3069,HO-VA-AD-MU,home goods,Adidas Vase in Multi-color,vase,Unisex,Adult,Multi-color,30.08,Adidas,Signature
+e74985fc-dd58-4a4c-be2e-12bc28762347,CL-DR-AP-GR,clothing,Apple Dress in Green,dress,Male,Youth,Green,174.65,Apple,Sport
+170621dc-0960-4dfd-9d9f-35691017a694,FO-SN-SO-BL,footwear,Sony Sneakers in Blue,sneakers,Male,Youth,Blue,144.13,Sony,Aero
+756dc869-0a07-4ece-8d0a-4cfb12d0fe10,HA-TO-GE-MU,handbag,Generic Brand Tote Bag in Multi-color,tote bag,Kids,Youth,Multi-color,292.15,Generic Brand,Signature
+817afcaa-b581-46e3-bc6e-c1f5834ee2e7,CL-DR-NI-GR,clothing,Nike Dress in Green,dress,Kids,Youth,Green,63.58,Nike,
+c7051e77-e34b-4148-8c8c-f823770df7ef,FO-SN-SA-GR,footwear,Samsung Sneakers in Grey,sneakers,Female,Youth,Grey,208.72,Samsung,Pro
+fa15d46d-cd2d-41db-9d65-5dd292ad125b,JE-RI-AP-GR,jewelry,Apple Ring in Green,ring,Kids,Youth,Green,878.39,Apple,Essentials
+b6d260b7-3816-48ac-95d1-09c2f64a6d2a,JE-RI-CO-PU,jewelry,Coach Ring in Purple,ring,Male,Adult,Purple,653.87,Coach,
+48e7eb44-d529-4b05-886a-d1761b96a2ba,WE-SM-AP-PI,wearables,Apple Smartwatch in Pink,smartwatch,Male,Adult,Pink,701.32,Apple,Aero
+16f2a48e-8d9e-4b98-bd1c-176b606f5d06,AC-SC-SO-PI,accessories,Sony Scarf in Pink,scarf,Female,Adult,Pink,30.31,Sony,Sport
+d8499ec6-65e8-465a-9e13-b17f609a4b2c,HA-TO-FO-BL,handbag,Fossil Tote Bag in Blue,tote bag,Female,Adult,Blue,141.59,Fossil,Signature
+e5905daf-fc3f-4d57-8812-115df477a8db,WE-SM-MI-YE,wearables,Michael Kors Smartwatch in Yellow,smartwatch,Unisex,Youth,Yellow,262.8,Michael Kors,
+2083e791-8fa7-4f14-8712-5451a8e86130,FO-SA-GU-BR,footwear,Gucci Sandals in Brown,sandals,Male,Adult,Brown,286.47,Gucci,Aero
+bb93dd6b-5f69-4f67-8917-db7c2017a78b,JE-RI-SO-GR,jewelry,Sony Ring in Grey,ring,Female,Adult,Grey,495.36,Sony,Signature
+17a7bcbc-9bd5-4d5d-886c-2479d1f40b04,HO-VA-AM-GR,home goods,Amazon Vase in Grey,vase,Male,Youth,Grey,207.39,Amazon,Pro
+1f422f2b-2a36-4214-82fb-01d163631a71,HA-TO-CO-BL,handbag,Coach Tote Bag in Blue,tote bag,Unisex,Adult,Blue,572.04,Coach,
+0a79fca1-faf5-452a-84e7-28e251688122,HO-VA-AM-RE,home goods,Amazon Vase in Red,vase,Kids,Youth,Red,248.39,Amazon,Aero
+6e83b351-b216-4121-8053-0c03eac79e89,EL-LA-CO-RE,electronics,Coach Laptop in Red,laptop,Female,Adult,Red,2761.23,Coach,Sport
+c216b69e-7a5c-4e2d-9563-f52a633c2db2,AC-SC-MI-GR,accessories,Michael Kors Scarf in Green,scarf,Female,Adult,Green,76.96,Michael Kors,
+e06d39d2-40a2-4ada-b70a-5f4ee8c69bea,FO-BO-FO-BL,footwear,Fossil Boots in Black,boots,Female,Youth,Black,53.68,Fossil,Aero
+5c8184a4-c0b7-4f08-bea8-5f1422318023,JE-NE-CO-YE,jewelry,Coach Necklace in Yellow,necklace,Female,Youth,Yellow,1048.48,Coach,Pro
+a2094589-1d5f-4380-a630-5751935f98cb,HO-PI-AD-OR,home goods,Adidas Pillow in Orange,pillow,Male,Adult,Orange,82.38,Adidas,
+a26d10df-1bf5-48f2-9598-0cfccaa5260d,JE-RI-AM-YE,jewelry,Amazon Ring in Yellow,ring,Female,Youth,Yellow,865.23,Amazon,Sport
+d6f7bf1c-f78f-47d4-97bf-8c6cf3cecb27,FO-SA-AM-RE,footwear,Amazon Sandals in Red,sandals,Unisex,Adult,Red,200.2,Amazon,
+2b4ac888-8226-4821-a54d-8e7b5c4af892,EL-TA-MI-YE,electronics,Michael Kors Tablet in Yellow,tablet,Unisex,Youth,Yellow,1862.86,Michael Kors,Aero
+757f4dab-5724-45cf-b245-9cbcf187c9ee,EL-LA-CO-BL,electronics,Coach Laptop in Black,laptop,Kids,Youth,Black,611.55,Coach,
+cad455f2-e804-44df-b839-8f3fd50d2abc,CL-SH-AM-BL,clothing,Amazon Shirt in Black,shirt,Female,Adult,Black,107.67,Amazon,
+fea9471d-be98-43db-a1e3-3cc9befb63d0,AC-BE-GU-GR,accessories,Gucci Belt in Grey,belt,Kids,Youth,Grey,33.06,Gucci,Pro
+b85bcea2-bf9f-4a58-8181-4382758e3254,HA-WA-FO-BL,handbag,Fossil Wallet in Blue,wallet,Unisex,Adult,Blue,374.82,Fossil,Pro
+5a86f2df-24f3-457b-bc09-03029dd1434e,CL-SK-AM-YE,clothing,Amazon Skirt in Yellow,skirt,Female,Youth,Yellow,98.09,Amazon,Sport
+b86a8cda-4f39-445d-ab38-05e21f2dd12f,EL-LA-AD-PU,electronics,Adidas Laptop in Purple,laptop,Male,Adult,Purple,871.45,Adidas,
+77e4188e-23e3-4bca-a18e-c884f489f239,EL-TA-GU-BR,electronics,Gucci Tablet in Brown,tablet,Kids,Youth,Brown,2867.73,Gucci,Pro
+c6e1d07d-4eb9-4c39-9db1-6ac5bea3cfa0,WE-SM-GE-PI,wearables,Generic Brand Smartwatch in Pink,smartwatch,Unisex,Adult,Pink,344.55,Generic Brand,
+45b9cfaa-49a0-4632-ac79-9bce0de916db,AC-SC-SO-BL,accessories,Sony Scarf in Black,scarf,Kids,Youth,Black,112.39,Sony,
+52931465-286b-4a1c-8d6c-27e3aa0d18c7,EL-TA-CO-PU,electronics,Coach Tablet in Purple,tablet,Female,Youth,Purple,2643.18,Coach,Pro
+77462a11-30e5-4bd9-a0bc-fc8b01000c8d,FO-BO-SA-BL,footwear,Samsung Boots in Blue,boots,Kids,Youth,Blue,253.33,Samsung,Aero
+eb0c9d2b-cb32-4396-9ee2-49cac725a828,FO-SN-MI-GR,footwear,Michael Kors Sneakers in Green,sneakers,Kids,Youth,Green,314.44,Michael Kors,Signature
+69c76122-24aa-4ffb-819f-e27d0690dd48,CL-SH-AD-BR,clothing,Adidas Shirt in Brown,shirt,Female,Youth,Brown,40.65,Adidas,Sport
+e9ae2cdb-ff35-4063-815e-62165035b240,AC-HA-AD-BL,accessories,Adidas Hat in Black,hat,Unisex,Adult,Black,19.96,Adidas,Signature
+e40be979-a6f6-4b2c-8d4d-37e189722c05,HA-WA-AM-OR,handbag,Amazon Wallet in Orange,wallet,Unisex,Adult,Orange,64.18,Amazon,Essentials
+591f6b34-068a-41cd-8986-2d63dfe7c48a,CL-SO-MI-GR,clothing,Michael Kors Socks in Green,socks,Kids,Youth,Green,31.86,Michael Kors,
+1c3f294c-c9fc-465e-a652-d0b3d937ac6e,AC-HA-FO-MU,accessories,Fossil Hat in Multi-color,hat,Unisex,Adult,Multi-color,12.81,Fossil,Essentials
+41ecd852-cb2a-48db-a834-5f7f2f9c6dd9,JE-NE-SA-BL,jewelry,Samsung Necklace in Black,necklace,Unisex,Adult,Black,320.94,Samsung,
+4512817b-0474-4f6b-aed7-d0a8fdf2b940,AC-HA-CO-OR,accessories,Coach Hat in Orange,hat,Female,Youth,Orange,42.58,Coach,
+3eafdafc-331a-4569-a530-5a922863ec9a,HA-WA-CO-RE,handbag,Coach Wallet in Red,wallet,Male,Adult,Red,247.27,Coach,Aero
+9ef25160-9cec-4fe8-9e37-fe23f0f5eb27,WE-SM-GE-GR,wearables,Generic Brand Smartwatch in Grey,smartwatch,Kids,Youth,Grey,373.63,Generic Brand,Aero
+1833d2e8-f7bf-4371-aa08-d49494494372,AC-SC-NI-BR,accessories,Nike Scarf in Brown,scarf,Kids,Youth,Brown,26.29,Nike,Essentials
+4fe4ce7d-73c9-4880-afa7-cedc122e764a,CL-DR-AD-GR,clothing,Adidas Dress in Grey,dress,Kids,Youth,Grey,21.12,Adidas,Sport
+1ac1fae1-83ce-4650-8e1b-0b47db19f0af,HO-LA-CO-RE,home goods,Coach Lamp in Red,lamp,Female,Youth,Red,253.57,Coach,
+383d9ec9-a4fc-4520-af65-098d86e8bae2,JE-BR-GE-GR,jewelry,Generic Brand Bracelet in Grey,bracelet,Female,Adult,Grey,82.6,Generic Brand,Sport
+394f6669-1add-4555-97cb-4b2c93825d3a,CL-SH-FO-YE,clothing,Fossil Shirt in Yellow,shirt,Male,Adult,Yellow,12.58,Fossil,Signature
+94a447c7-1f83-4bb2-a031-953a88b3500f,HO-LA-AM-BL,home goods,Amazon Lamp in Blue,lamp,Unisex,Youth,Blue,124.49,Amazon,
+97554262-b762-4cdc-89a7-0bffd955b016,CL-SK-NI-RE,clothing,Nike Skirt in Red,skirt,Male,Adult,Red,16.45,Nike,Pro
+54a369f5-503b-4965-8ca1-c2a05969ed34,HA-BA-MI-RE,handbag,Michael Kors Backpack in Red,backpack,Kids,Youth,Red,590.43,Michael Kors,Pro
+3f0ec495-ffed-47fc-9faf-c77b6d4266c8,CL-DR-CO-GR,clothing,Coach Dress in Green,dress,Kids,Youth,Green,31.07,Coach,Essentials
+2f925fb4-25f9-4c91-9e10-0b2f47b74e34,CL-SO-MI-OR,clothing,Michael Kors Socks in Orange,socks,Female,Youth,Orange,54.46,Michael Kors,Sport
+801e3fc2-b8ec-4e4c-b802-f7eb0d73f9bd,WE-SM-CO-BL,wearables,Coach Smartwatch in Black,smartwatch,Unisex,Adult,Black,528.55,Coach,
+6ee5bdd5-a60b-460e-83ce-bf72bb188f37,AC-HA-GU-MU,accessories,Gucci Hat in Multi-color,hat,Female,Adult,Multi-color,76.36,Gucci,
+61a5fc95-5261-4b23-bbdd-822a42254a16,HO-PI-CO-YE,home goods,Coach Pillow in Yellow,pillow,Male,Youth,Yellow,194.97,Coach,
+47a3805f-8aa7-42d1-bb6b-d98730581da8,JE-NE-FO-GR,jewelry,Fossil Necklace in Green,necklace,Unisex,Adult,Green,129.07,Fossil,Sport
+c7d6cd88-10b8-45b1-9fe4-3c488907dc02,AC-SC-GE-BL,accessories,Generic Brand Scarf in Blue,scarf,Unisex,Adult,Blue,40.71,Generic Brand,Signature
+2fa0e1a1-312f-473c-a4b8-d6bb9b49419f,EL-TA-NI-RE,electronics,Nike Tablet in Red,tablet,Male,Youth,Red,749.47,Nike,
+debe10dd-a4e1-4ad4-80f3-487d1beb9115,EL-TA-AD-MU,electronics,Adidas Tablet in Multi-color,tablet,Unisex,Adult,Multi-color,1737.98,Adidas,
+4d70b73d-442f-4b1f-990b-3871e96f855a,HA-WA-SA-GR,handbag,Samsung Wallet in Grey,wallet,Unisex,Adult,Grey,350.85,Samsung,
+c9afd513-0296-4e1e-8a7e-f3de673faac9,CL-SO-FO-PI,clothing,Fossil Socks in Pink,socks,Unisex,Adult,Pink,44.46,Fossil,Signature
+a2c48142-a41d-4e22-954c-cc6cbc030a86,WE-SM-AD-OR,wearables,Adidas Smartwatch in Orange,smartwatch,Female,Youth,Orange,454.09,Adidas,
+183b9077-8ce1-4ce1-ba86-6fdb692150e7,HA-WA-GE-WH,handbag,Generic Brand Wallet in White,wallet,Kids,Youth,White,215.87,Generic Brand,Essentials
+68f3e4ee-8c1e-4171-b408-fa5515b38fc1,EL-TA-SA-GR,electronics,Samsung Tablet in Green,tablet,Kids,Youth,Green,1135.66,Samsung,
+76dc67fd-538d-4478-8f4d-5fc5560a42c4,EL-TA-GE-PU,electronics,Generic Brand Tablet in Purple,tablet,Kids,Youth,Purple,1948.37,Generic Brand,Essentials
+7f8cdc79-0b6a-4d48-8f30-ef74417abf5e,HO-LA-CO-GR,home goods,Coach Lamp in Green,lamp,Female,Youth,Green,368.64,Coach,
+a618c612-53bc-46c4-b5cf-7c3ff58626c2,FO-BO-SO-BL,footwear,Sony Boots in Blue,boots,Male,Youth,Blue,113.19,Sony,Signature
+a3bb3d1e-6bf1-4379-a255-ceadecba8b24,HO-PI-SA-BR,home goods,Samsung Pillow in Brown,pillow,Male,Adult,Brown,172.1,Samsung,
+7262a8ca-8b1b-44dc-a43e-a9986af9eb23,FO-SA-SO-YE,footwear,Sony Sandals in Yellow,sandals,Female,Youth,Yellow,338.64,Sony,
+b1e0406b-47f4-4d53-8897-fe928d98c3b2,EL-LA-SA-PU,electronics,Samsung Laptop in Purple,laptop,Kids,Youth,Purple,841.81,Samsung,Pro
+a6725ada-dd11-456b-8f16-8809a24d5e4f,HA-TO-MI-GR,handbag,Michael Kors Tote Bag in Green,tote bag,Female,Youth,Green,409.4,Michael Kors,Aero
+eb6e93c8-9425-4c3f-ade1-9d781f28be2c,HO-PI-FO-BR,home goods,Fossil Pillow in Brown,pillow,Male,Youth,Brown,214.26,Fossil,Signature
+6ecedce6-f692-4be8-913e-adff74d3cc35,CL-SH-FO-YE,clothing,Fossil Shirt in Yellow,shirt,Male,Adult,Yellow,99.29,Fossil,Pro
+57f8c1d0-bb0f-4d54-b55a-404e00a6cbfb,HA-TO-FO-PI,handbag,Fossil Tote Bag in Pink,tote bag,Male,Adult,Pink,184.73,Fossil,Sport
+48774860-0f73-451e-bf25-7de770e5c3e7,JE-NE-MI-BL,jewelry,Michael Kors Necklace in Blue,necklace,Unisex,Adult,Blue,1256.88,Michael Kors,
+e1f56f3b-e2ea-4368-ba4b-02d10371f931,JE-NE-AM-PU,jewelry,Amazon Necklace in Purple,necklace,Male,Youth,Purple,435.82,Amazon,Aero
+414a1986-fb2e-4b37-ba37-f012c2531525,CL-SO-SA-BR,clothing,Samsung Socks in Brown,socks,Kids,Youth,Brown,67.66,Samsung,Signature
+b8475295-0ab7-46e6-8f5a-0a5b5be05074,EL-TA-AP-YE,electronics,Apple Tablet in Yellow,tablet,Male,Adult,Yellow,1182.41,Apple,Essentials
+402123dd-6707-4d24-bd1c-338b8b3defe6,WE-SM-MI-OR,wearables,Michael Kors Smartwatch in Orange,smartwatch,Male,Adult,Orange,479.43,Michael Kors,Pro
+f9c645be-f827-4486-a9ca-eded16a47399,EL-LA-AD-WH,electronics,Adidas Laptop in White,laptop,Female,Youth,White,441.94,Adidas,
+25e2f249-be07-4018-a2fc-1df4af3cffcf,HA-TO-MI-BL,handbag,Michael Kors Tote Bag in Blue,tote bag,Unisex,Adult,Blue,173.74,Michael Kors,
+f7ccaeac-0f1d-4eef-bdda-8a766f59254e,FO-BO-AP-YE,footwear,Apple Boots in Yellow,boots,Male,Adult,Yellow,73.98,Apple,Signature
+c57bbd90-40ef-4d1e-85cd-4b856b301570,FO-SN-SO-BL,footwear,Sony Sneakers in Blue,sneakers,Unisex,Adult,Blue,187.08,Sony,Signature
+4f8b1842-d4af-4fdf-bf25-d09da9fff9e1,EL-LA-GE-YE,electronics,Generic Brand Laptop in Yellow,laptop,Unisex,Adult,Yellow,1365.0,Generic Brand,Aero
+92030d40-c1f7-4ffb-aa04-d73fcfda9de8,JE-EA-AD-OR,jewelry,Adidas Earrings in Orange,earrings,Unisex,Youth,Orange,575.95,Adidas,
+bf49f898-57c7-4ff6-bccd-394f69c82e26,HO-LA-GU-BR,home goods,Gucci Lamp in Brown,lamp,Male,Youth,Brown,163.13,Gucci,
+81a5436b-d4ae-4a28-ade4-66e8ef4843dc,HO-PI-GE-WH,home goods,Generic Brand Pillow in White,pillow,Kids,Youth,White,20.36,Generic Brand,
+1180ee71-430b-423e-bbd1-3c2e275e1ce9,HA-TO-SA-MU,handbag,Samsung Tote Bag in Multi-color,tote bag,Kids,Youth,Multi-color,317.59,Samsung,Aero
+61a12121-1589-4f0c-86f1-2c88ba427bc9,EL-TA-SO-RE,electronics,Sony Tablet in Red,tablet,Kids,Youth,Red,2731.09,Sony,
+31d90d07-44e2-496c-ae6f-214f2a33a282,JE-EA-FO-PU,jewelry,Fossil Earrings in Purple,earrings,Male,Adult,Purple,156.2,Fossil,Signature
+aebe9167-cb96-4bbb-900d-86f7a5e5142a,HO-VA-MI-MU,home goods,Michael Kors Vase in Multi-color,vase,Female,Adult,Multi-color,193.24,Michael Kors,Aero
+d301cb08-0778-4fa0-b58d-2442fdbd5f7e,JE-RI-AP-PU,jewelry,Apple Ring in Purple,ring,Kids,Youth,Purple,759.52,Apple,Pro
+da6d3596-7407-4e87-89c6-48a700f53926,AC-BE-MI-PI,accessories,Michael Kors Belt in Pink,belt,Kids,Youth,Pink,18.82,Michael Kors,
+f2a286c3-d51a-457f-8b86-39df705f9342,CL-PA-CO-PI,clothing,Coach Pants in Pink,pants,Female,Youth,Pink,74.3,Coach,Signature
+0d9d6b73-ef17-4a63-b6d6-3522bb899841,WE-SM-GE-BR,wearables,Generic Brand Smartwatch in Brown,smartwatch,Male,Youth,Brown,390.64,Generic Brand,Sport
+d89b9f47-2b73-425d-8d37-8e2f1cb665fd,HO-LA-AM-RE,home goods,Amazon Lamp in Red,lamp,Male,Adult,Red,27.74,Amazon,Signature
+cec36ca1-e4d4-437e-b95b-a79a1c5997be,HO-PI-AP-GR,home goods,Apple Pillow in Grey,pillow,Male,Adult,Grey,206.39,Apple,
+0914fb03-55cd-415f-bffc-3b12022a4fbb,HO-LA-GU-GR,home goods,Gucci Lamp in Grey,lamp,Kids,Youth,Grey,37.72,Gucci,
+830f6606-fdf4-4cb6-8060-81c0e0a40e9f,CL-SO-GE-WH,clothing,Generic Brand Socks in White,socks,Female,Youth,White,21.18,Generic Brand,
+8129b58e-bb06-4989-88a2-ef573087b5e8,AC-SC-AP-RE,accessories,Apple Scarf in Red,scarf,Female,Youth,Red,87.7,Apple,
+2d4cadd9-1738-4f84-8825-3056aabd15e4,JE-EA-MI-WH,jewelry,Michael Kors Earrings in White,earrings,Kids,Youth,White,284.28,Michael Kors,Essentials
+05cbeaa6-98b1-4b60-81a6-1ee668ac135e,JE-RI-AP-BR,jewelry,Apple Ring in Brown,ring,Male,Adult,Brown,896.05,Apple,Sport
+a263924c-2487-4211-9823-6875347a1c7a,WE-SM-CO-BL,wearables,Coach Smartwatch in Black,smartwatch,Female,Youth,Black,678.84,Coach,
+f32c2754-49c1-4cce-adbb-f24d54fc7523,HO-PI-GE-RE,home goods,Generic Brand Pillow in Red,pillow,Male,Adult,Red,87.43,Generic Brand,Sport
+428ee663-0346-43c8-aa5a-b43afea8f7a7,HO-VA-SA-BL,home goods,Samsung Vase in Blue,vase,Male,Youth,Blue,23.2,Samsung,Essentials
+1c0177ad-b5c0-423e-8116-683b9823949d,AC-BE-SA-PI,accessories,Samsung Belt in Pink,belt,Kids,Youth,Pink,33.08,Samsung,Aero
+fc8d735d-6f71-4caa-be49-6fda96dd37c5,WE-SM-GE-GR,wearables,Generic Brand Smartwatch in Grey,smartwatch,Kids,Youth,Grey,319.83,Generic Brand,Aero
+751de4ae-ba11-4571-b7fd-82a43370dfb9,WE-SM-AD-PU,wearables,Adidas Smartwatch in Purple,smartwatch,Kids,Youth,Purple,191.09,Adidas,Pro
+64864b80-6e53-47e8-b2f2-629ffd7fa616,HO-PI-NI-WH,home goods,Nike Pillow in White,pillow,Kids,Youth,White,246.24,Nike,Sport
+26718c9f-97a1-4be5-a3bf-89dcab19fb40,EL-LA-NI-BR,electronics,Nike Laptop in Brown,laptop,Female,Youth,Brown,561.01,Nike,Signature
+f7f1e613-637b-4e69-acc4-d1bb6a3d54dc,EL-LA-GE-GR,electronics,Generic Brand Laptop in Grey,laptop,Unisex,Youth,Grey,1567.37,Generic Brand,Essentials
+dda84260-d2cc-49b5-a503-9de2e9355203,AC-BE-SA-RE,accessories,Samsung Belt in Red,belt,Unisex,Youth,Red,52.82,Samsung,Aero
+e2fd7108-c55b-41cb-b9cb-5b63e06f27f2,WE-SM-GE-PU,wearables,Generic Brand Smartwatch in Purple,smartwatch,Female,Adult,Purple,194.6,Generic Brand,Pro
+f76ee9f5-27f6-4ba0-97f9-33f5331c51f1,JE-RI-GU-RE,jewelry,Gucci Ring in Red,ring,Female,Adult,Red,700.84,Gucci,Signature
+d591c89d-b818-45df-9cbc-17f2cec7cbd9,HA-TO-CO-OR,handbag,Coach Tote Bag in Orange,tote bag,Kids,Youth,Orange,418.65,Coach,
+8fc18669-71a1-4b2f-b1db-706030f48cc2,WE-SM-MI-BL,wearables,Michael Kors Smartwatch in Blue,smartwatch,Male,Youth,Blue,97.55,Michael Kors,Essentials
+83f316f9-20ae-4ca4-a822-949fa3d80449,JE-BR-GU-BL,jewelry,Gucci Bracelet in Blue,bracelet,Kids,Youth,Blue,1073.54,Gucci,Essentials
+40d82925-5698-4251-9093-3656eb7fe202,WE-SM-GU-WH,wearables,Gucci Smartwatch in White,smartwatch,Female,Adult,White,124.04,Gucci,
+fb492f5a-1385-4ff8-b3c5-164033f5dc30,FO-SA-GE-OR,footwear,Generic Brand Sandals in Orange,sandals,Unisex,Youth,Orange,116.29,Generic Brand,
+e0438493-e98d-4eb2-853e-a3cfd9441756,AC-HA-FO-WH,accessories,Fossil Hat in White,hat,Unisex,Youth,White,38.62,Fossil,Sport
+742f77a4-d489-46c4-85fb-6de6f500ec01,HA-TO-GU-BL,handbag,Gucci Tote Bag in Blue,tote bag,Kids,Youth,Blue,304.95,Gucci,Signature
+937986b4-cf79-45f7-b6c0-49da43b8f73e,AC-SC-AM-GR,accessories,Amazon Scarf in Grey,scarf,Kids,Youth,Grey,70.25,Amazon,
+698dfc75-1b8d-4cd7-8994-d8fb1d36ade1,FO-SN-MI-RE,footwear,Michael Kors Sneakers in Red,sneakers,Female,Adult,Red,56.78,Michael Kors,
+1abd5c19-125b-4a29-9524-0a4d70d50305,CL-DR-AM-PI,clothing,Amazon Dress in Pink,dress,Unisex,Adult,Pink,10.3,Amazon,Pro
+9e23f8d3-6bad-4601-9fec-3eb257e1ab8e,HO-LA-SO-YE,home goods,Sony Lamp in Yellow,lamp,Male,Adult,Yellow,181.72,Sony,Aero
+df39ae20-3f02-4c62-9604-ca8e0cc8ace3,WE-SM-SO-GR,wearables,Sony Smartwatch in Green,smartwatch,Male,Youth,Green,397.49,Sony,
+c1c3dbe8-fa70-42d5-bb56-912ca783e5dc,FO-BO-AM-PU,footwear,Amazon Boots in Purple,boots,Kids,Youth,Purple,256.6,Amazon,
+b082c288-0e8f-4e41-a3c4-9d7d396e16c1,HO-VA-AP-BL,home goods,Apple Vase in Blue,vase,Female,Adult,Blue,255.37,Apple,
+2bd912b5-6f5b-4e22-a918-2d551e59074c,HA-BA-SO-GR,handbag,Sony Backpack in Green,backpack,Male,Youth,Green,465.48,Sony,Signature
+c53bd467-36f3-4f6b-91a7-ba03fcf03a23,AC-BE-SO-WH,accessories,Sony Belt in White,belt,Male,Youth,White,85.46,Sony,Signature
+5284d9d6-0368-4164-af80-fd0dde2a20a4,FO-BO-AP-BL,footwear,Apple Boots in Black,boots,Male,Youth,Black,232.95,Apple,Sport
+0040459b-1f91-418a-a6f2-c639507f32b9,FO-SA-FO-YE,footwear,Fossil Sandals in Yellow,sandals,Female,Adult,Yellow,106.44,Fossil,Essentials
+8ad93341-cf55-41d1-8c64-e1384f20db06,CL-SO-GU-BL,clothing,Gucci Socks in Black,socks,Unisex,Youth,Black,35.76,Gucci,Pro
+5d84f3fc-2126-4c26-bf9e-4097668a21d8,EL-TA-CO-MU,electronics,Coach Tablet in Multi-color,tablet,Kids,Youth,Multi-color,1764.97,Coach,
+33a8a3a1-6472-49f9-8eb1-a067e2fe7679,FO-SN-GU-PI,footwear,Gucci Sneakers in Pink,sneakers,Male,Adult,Pink,315.08,Gucci,Aero
+da6a3d88-babd-4501-9ee0-a0c2fc028792,HO-LA-SA-RE,home goods,Samsung Lamp in Red,lamp,Female,Adult,Red,227.62,Samsung,Pro
+95c6275a-6405-4b7c-94d0-f53165179893,EL-TA-MI-YE,electronics,Michael Kors Tablet in Yellow,tablet,Female,Adult,Yellow,2259.21,Michael Kors,
+3610f559-1a44-42df-b318-f429750796aa,HA-BA-SO-BR,handbag,Sony Backpack in Brown,backpack,Male,Youth,Brown,539.68,Sony,
+7edc1ed2-d571-4276-8a34-3714a8dadce9,WE-SM-AP-MU,wearables,Apple Smartwatch in Multi-color,smartwatch,Kids,Youth,Multi-color,109.35,Apple,Essentials
+03338578-1958-471f-8cb5-fbd5cb9b0620,WE-SM-AM-WH,wearables,Amazon Smartwatch in White,smartwatch,Male,Adult,White,108.34,Amazon,
+700469b7-24d0-44ff-876c-553d8866902f,EL-LA-CO-BL,electronics,Coach Laptop in Black,laptop,Kids,Youth,Black,1514.74,Coach,Pro
+0728727c-fc76-404c-b1c7-558707777faa,JE-RI-NI-MU,jewelry,Nike Ring in Multi-color,ring,Unisex,Youth,Multi-color,690.44,Nike,Sport
